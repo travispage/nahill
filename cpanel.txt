@@ -1,0 +1,6 @@
+FTP ACCOUNT
+
+host		:	ftp.nahilldesigns.com.au | 192.232.219.81
+user		:	 sms@nahilldesigns.com.au
+password	:	(keBeN$8056(
+port		:	21

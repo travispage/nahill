@@ -1,0 +1,312 @@
+0000.009 (0) Opened log file at time: Fri, 01 Sep 2017 09:17:09 +0000 on http://nahilldesigns.com.au
+0000.012 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.12.40 WP: 4.7.5 PHP: 5.6.30 (cgi-fcgi, Linux gator3085.hostgator.com 3.12.74-215.ELK6.x86_64 #1 SMP Fri Jun 23 00:36:20 CDT 2017 x86_64) MySQL: 5.5.51 WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 34.2M | 34.8M) multisite: N openssl: OpenSSL 1.0.1e-fips 11 Feb 2013 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.316 (0) Free space on disk containing Updraft's temporary directory: 95067.9 MB
+0000.319 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.334 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.417 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1503645561, seconds_ago=611869)
+0000.420 (0) Set semaphore last lock (fd) time to 2017-09-01 09:17:10
+0000.422 (0) Semaphore lock (fd) complete
+0000.445 (0) Backup run: resumption=0, nonce=488d222bffed, begun at=1504257429 (1s ago), job type=backup
+0000.448 (0) Scheduling a resumption (1) after 300 seconds (1504257730) in case this run gets aborted
+0000.498 (0) Checking if we have a zip executable available
+0000.500 (0) Testing: /usr/bin/zip
+0000.511 (0) Output: zip warning: binziptest/test.zip not found or empty
+0000.513 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0000.515 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0000.516 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0000.518 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0000.532 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0000.535 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0000.586 (0) Working binary zip found: /usr/bin/zip
+0000.590 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0000.592 (0) Creation of backups of directories: beginning
+0000.597 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0001.222 (0) Total entities for the zip file: 561 directories, 3872 files (0 skipped as non-modified), 46 MB
+0001.228 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0001.233 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0001.237 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.242 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.246 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.248 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (4.3 MB, 3872 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0003.421 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: size is now: 1.50 MB
+0003.428 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 600 files added (on-disk size: 1566 KB)
+0003.434 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 700 files added (on-disk size: 1566 KB)
+0003.439 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 800 files added (on-disk size: 1566 KB)
+0003.444 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 900 files added (on-disk size: 1566 KB)
+0003.449 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1000 files added (on-disk size: 1566 KB)
+0003.450 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.9 MB, 3872 files batched, 501 (1002) added so far); re-opening (prior size: 1566 KB)
+0005.197 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: size is now: 2.80 MB
+0005.206 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1100 files added (on-disk size: 2843.8 KB)
+0005.211 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1200 files added (on-disk size: 2843.8 KB)
+0005.216 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1300 files added (on-disk size: 2843.8 KB)
+0005.221 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1400 files added (on-disk size: 2843.8 KB)
+0005.226 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1500 files added (on-disk size: 2843.8 KB)
+0005.227 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5.4 MB, 3872 files batched, 501 (1503) added so far); re-opening (prior size: 2843.8 KB)
+0007.363 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: size is now: 5.30 MB
+0007.371 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1600 files added (on-disk size: 5404.5 KB)
+0007.376 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1700 files added (on-disk size: 5404.5 KB)
+0007.381 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1800 files added (on-disk size: 5404.5 KB)
+0007.389 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 1900 files added (on-disk size: 5404.5 KB)
+0007.394 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2000 files added (on-disk size: 5404.5 KB)
+0007.396 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (5 MB, 3872 files batched, 501 (2004) added so far); re-opening (prior size: 5404.5 KB)
+0010.061 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: size is now: 7.00 MB
+0010.070 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2100 files added (on-disk size: 7155.2 KB)
+0010.075 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2200 files added (on-disk size: 7155.2 KB)
+0010.080 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2300 files added (on-disk size: 7155.2 KB)
+0010.085 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2400 files added (on-disk size: 7155.2 KB)
+0010.091 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2500 files added (on-disk size: 7155.2 KB)
+0010.093 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (18.9 MB, 3872 files batched, 501 (2505) added so far); re-opening (prior size: 7155.2 KB)
+0013.917 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: size is now: 12.60 MB
+0013.926 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2600 files added (on-disk size: 12887.9 KB)
+0013.930 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2700 files added (on-disk size: 12887.9 KB)
+0013.935 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2800 files added (on-disk size: 12887.9 KB)
+0013.939 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 2900 files added (on-disk size: 12887.9 KB)
+0013.943 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3000 files added (on-disk size: 12887.9 KB)
+0013.945 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (1.8 MB, 3872 files batched, 501 (3006) added so far); re-opening (prior size: 12887.9 KB)
+0016.614 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3100 files added (on-disk size: 13480.5 KB)
+0016.619 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3200 files added (on-disk size: 13480.5 KB)
+0016.624 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3300 files added (on-disk size: 13480.5 KB)
+0016.629 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3400 files added (on-disk size: 13480.5 KB)
+0016.634 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3500 files added (on-disk size: 13480.5 KB)
+0016.635 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (3.3 MB, 3872 files batched, 501 (3507) added so far); re-opening (prior size: 13480.5 KB)
+0019.339 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3600 files added (on-disk size: 14963.1 KB)
+0019.344 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3700 files added (on-disk size: 14963.1 KB)
+0019.348 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip.tmp: 3800 files added (on-disk size: 14963.1 KB)
+0020.739 (0) Created plugins zip (0) - 16390.4 KB in 20 s (821.3 KB/s) (sha1: 4a082c16edf19b4c76510b10cbc93ef92e3c2258, sha256: a3882a2a9ad91c00ad527a859e748d3ae995bc80a8feb3ee15e8f2d7d2e23608)
+0020.742 (0) Beginning creation of dump of themes (split every: 400 MB)
+0021.109 (0) Total entities for the zip file: 188 directories, 901 files (0 skipped as non-modified), 14.3 MB
+0021.114 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0021.120 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0021.125 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0021.130 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0021.136 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0021.138 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 500 files added on this batch (6.3 MB, 901 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0023.746 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: size is now: 3.20 MB
+0023.755 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 600 files added (on-disk size: 3315 KB)
+0023.760 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 700 files added (on-disk size: 3315 KB)
+0023.765 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 800 files added (on-disk size: 3315 KB)
+0023.769 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: 900 files added (on-disk size: 3315 KB)
+0025.653 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip.tmp: size is now: 7.10 MB
+0025.783 (0) Created themes zip (0) - 7223.9 KB in 4.9 s (1483.6 KB/s) (sha1: 5bf58a9b2cd98f8dcebcd52bc1fb5ebf84ef91f6, sha256: cff9aa461113c1a2311984ff29e7f52eaf115b38c4fcf6d33b0bba2b324a158a)
+0025.788 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0025.789 (0) Looking for candidates to back up in: /home3/nahill/public_html/wp-content/uploads
+0025.791 (0) finding files: ithemes-security: adding to list (1)
+0025.793 (0) finding files: 2017: adding to list (2)
+0025.794 (0) finding files: redux: adding to list (3)
+0025.796 (0) finding files: font-organizer: adding to list (4)
+0025.797 (0) finding files: 2014: adding to list (5)
+0025.799 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0026.098 (0) Total entities for the zip file: 17 directories, 512 files (0 skipped as non-modified), 146 MB
+0026.104 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0026.108 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (27.1 MB, 512 files batched, 175 (175) added so far); re-opening (prior size: 0 KB)
+0027.199 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip.tmp: size is now: 27.10 MB
+0027.203 (0) A useful amount of data was added after this amount of zip processing: 2 s (normalised: 1.8 s, rate: 14168.4 KB/s)
+0027.206 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.95938491821, normalised_time=1.80683944597, max_time=-1, data points known=0, old_max_bytes=26214400, new_max_bytes=87050567)
+0027.210 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip.tmp: 200 files added (on-disk size: 27781.1 KB)
+0027.215 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip.tmp: 300 files added (on-disk size: 27781.1 KB)
+0027.221 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip.tmp: 400 files added (on-disk size: 27781.1 KB)
+0027.225 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 83 MB added on this batch (90.9 MB, 512 files batched, 275 (450) added so far); re-opening (prior size: 27781.1 KB)
+0032.034 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip.tmp: size is now: 118.00 MB
+0032.039 (0) A useful amount of data was added after this amount of zip processing: 5.8 s (normalised: 5.3 s, rate: 16062.7 KB/s)
+0032.043 (0) Performance is good - will increase the amount of data we attempt to batch (time=5.79525494576, normalised_time=5.29240130397, max_time=-1, data points known=0, old_max_bytes=87050567, new_max_bytes=98689304)
+0032.048 (0) Zip: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip.tmp: 500 files added (on-disk size: 120825.6 KB)
+0033.538 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip.tmp: size is now: 146.00 MB
+0036.248 (0) Created uploads zip (0) - 149495.9 KB in 10.3 s (14548.6 KB/s) (sha1: 2b3689ff434be82f88f406c1ca1611159976115d, sha256: 43f0bde56f087b602ed59bd38da4d74e64091da75bfd244e3cb4eb6cd1575243)
+0036.253 (0) Beginning backup of other directories found in the content directory (index: 0)
+0036.254 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0036.256 (0) Looking for candidates to back up in: /home3/nahill/public_html/wp-content
+0036.258 (0) finding files: themes: skipping: this is the themes directory
+0036.259 (0) finding files: cache: skipping: excluded by options
+0036.261 (0) finding files: db.php: adding to list (1)
+0036.262 (0) finding files: uploads: skipping: this is the uploads directory
+0036.264 (0) finding files: index.php: adding to list (2)
+0036.265 (0) finding files: updraft: skipping: this is the updraft directory
+0036.267 (0) finding files: object-cache.php: adding to list (3)
+0036.268 (0) finding files: w3tc-config: adding to list (4)
+0036.270 (0) finding files: upgrade: skipping: excluded by options
+0036.271 (0) finding files: plugins: skipping: this is the plugins directory
+0036.273 (0) finding files: advanced-cache.php: adding to list (5)
+0036.450 (0) Total entities for the zip file: 1 directories, 7 files (0 skipped as non-modified), 0 MB
+0036.558 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-others.zip.tmp: size is now: 0.00 MB
+0036.566 (0) Created others zip (0) - 12.2 KB in 0.1 s (102.4 KB/s) (sha1: e6acd4f493248c143c24bfcc4325ae70a00ef597, sha256: b55dd9da0d1ae7208b008ebedef0ea207729cdba6ebdceb944714a2a21d1f5af)
+0036.572 (0) Saving backup status to database (elements: 8)
+0036.576 (0) Beginning creation of database dump (WordPress DB)
+0036.579 (0) Testing: /usr/bin/mysqldump
+0036.605 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1197 bytes total)
+0036.609 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0036.622 (0) Table wp_options: Total expected rows (approximate): 368
+0036.741 (0) Table wp_options: Total rows added: 364 in 0.12 seconds
+0036.744 (0) Table wp_options: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_options.table.gz - 312.2 KB)
+0036.771 (0) Table wp_users: Total expected rows (approximate): 2
+0036.776 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0036.778 (0) Table wp_users: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_users.table.gz - 0.6 KB)
+0036.788 (0) Table wp_usermeta: Total expected rows (approximate): 50
+0036.793 (0) Table wp_usermeta: Total rows added: 50 in 0.00 seconds
+0036.794 (0) Table wp_usermeta: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_usermeta.table.gz - 2.4 KB)
+0036.806 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0036.810 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0036.812 (0) Table wp_commentmeta: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0036.821 (0) Table wp_comments: Total expected rows (approximate): 1
+0036.825 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0036.827 (0) Table wp_comments: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_comments.table.gz - 0.7 KB)
+0036.837 (0) Table wp_links: Total expected rows (approximate): 0
+0036.842 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0036.844 (0) Table wp_links: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_links.table.gz - 0.4 KB)
+0036.850 (0) Table wp_postmeta: Total expected rows (approximate): 5645
+0036.989 (0) Table wp_postmeta: Total rows added: 5645 in 0.14 seconds
+0036.991 (0) Table wp_postmeta: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_postmeta.table.gz - 51.4 KB)
+0036.997 (0) Table wp_posts: Total expected rows (approximate): 299
+0037.040 (0) Table wp_posts: Total rows added: 299 in 0.04 seconds
+0037.042 (0) Table wp_posts: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_posts.table.gz - 26.4 KB)
+0037.048 (0) Table wp_term_relationships: Total expected rows (approximate): 59
+0037.052 (0) Table wp_term_relationships: Total rows added: 59 in 0.00 seconds
+0037.054 (0) Table wp_term_relationships: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_term_relationships.table.gz - 0.5 KB)
+0037.059 (0) Table wp_term_taxonomy: Total expected rows (approximate): 21
+0037.064 (0) Table wp_term_taxonomy: Total rows added: 21 in 0.00 seconds
+0037.066 (0) Table wp_term_taxonomy: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_term_taxonomy.table.gz - 0.6 KB)
+0037.077 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0037.081 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0037.117 (0) Table wp_termmeta: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_termmeta.table.gz - 0.4 KB)
+0037.124 (0) Table wp_terms: Total expected rows (approximate): 21
+0037.128 (0) Table wp_terms: Total rows added: 21 in 0.00 seconds
+0037.130 (0) Table wp_terms: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_terms.table.gz - 0.6 KB)
+0037.141 (0) Table wp_fo_elements: Total expected rows (approximate): 0
+0037.145 (0) Table wp_fo_elements: Total rows added: 0 in 0.00 seconds
+0037.148 (0) Table wp_fo_elements: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_fo_elements.table.gz - 0.3 KB)
+0037.159 (0) Table wp_fo_usable_fonts: Total expected rows (approximate): 1
+0037.164 (0) Table wp_fo_usable_fonts: Total rows added: 1 in 0.00 seconds
+0037.166 (0) Table wp_fo_usable_fonts: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_fo_usable_fonts.table.gz - 0.4 KB)
+0037.173 (0) Table wp_itsec_lockouts: Total expected rows (approximate): 0
+0037.177 (0) Table wp_itsec_lockouts: Total rows added: 0 in 0.00 seconds
+0037.180 (0) Table wp_itsec_lockouts: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_itsec_lockouts.table.gz - 0.4 KB)
+0037.191 (0) Table wp_itsec_log: Total expected rows (approximate): 2
+0037.198 (0) Table wp_itsec_log: Total rows added: 2 in 0.00 seconds
+0037.202 (0) Table wp_itsec_log: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_itsec_log.table.gz - 0.7 KB)
+0037.208 (0) Table wp_itsec_temp: Total expected rows (approximate): 0
+0037.211 (0) Table wp_itsec_temp: Total rows added: 0 in 0.00 seconds
+0037.213 (0) Table wp_itsec_temp: finishing file (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_itsec_temp.table.gz - 0.4 KB)
+0037.218 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_options.table.gz (1/17): adding to final database dump
+0037.321 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_users.table.gz (2/17): adding to final database dump
+0037.324 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_usermeta.table.gz (3/17): adding to final database dump
+0037.327 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_commentmeta.table.gz (4/17): adding to final database dump
+0037.329 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_comments.table.gz (5/17): adding to final database dump
+0037.331 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_links.table.gz (6/17): adding to final database dump
+0037.333 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_postmeta.table.gz (7/17): adding to final database dump
+0037.404 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_posts.table.gz (8/17): adding to final database dump
+0037.419 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_term_relationships.table.gz (9/17): adding to final database dump
+0037.422 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_term_taxonomy.table.gz (10/17): adding to final database dump
+0037.424 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_termmeta.table.gz (11/17): adding to final database dump
+0037.426 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_terms.table.gz (12/17): adding to final database dump
+0037.429 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_fo_elements.table.gz (13/17): adding to final database dump
+0037.431 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_fo_usable_fonts.table.gz (14/17): adding to final database dump
+0037.434 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_itsec_lockouts.table.gz (15/17): adding to final database dump
+0037.437 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_itsec_log.table.gz (16/17): adding to final database dump
+0037.439 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db-table-wp_itsec_temp.table.gz (17/17): adding to final database dump
+0037.442 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db.gz: finished writing out complete database file (368 KB)
+0037.460 (0) Total database tables backed up: 17 (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db.gz, size: 404839, sha256)
+0037.485 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0037.486 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0037.488 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0037.490 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-others.zip: others: This file has not yet been successfully uploaded: will queue
+0037.491 (0) backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db.gz: db: This file has not yet been successfully uploaded: will queue
+0037.493 (0) Saving backup history. Total backup size: 169.5 MB
+0037.498 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0037.506 (0) Cloud backup selection (1/1): dropbox (last)
+0037.509 (0) Beginning dispatch of backup to remote (dropbox)
+0037.511 (0) Dropbox: begin cloud upload (using API version 2 with OAuth v2 token)
+0037.529 (0) Dropbox: access gained; setting chunk size to: 1024 KB
+0038.239 (0) Dropbox quota usage: used=104673.4 MB, total=1050880 MB, available=946206.6 MB
+0038.241 (0) Dropbox: Attempt to upload: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip to: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip
+0040.256 (0) Dropbox chunked upload: 6.2 % uploaded (AAAAAAAAuZCxxszL92xk6Q, 1048576, 4096 KB)
+0043.934 (0) Dropbox chunked upload: 31.2 % uploaded (AAAAAAAAuZCxxszL92xk6Q, 5242880, 9728 KB)
+0048.555 (0) Dropbox chunked upload: 90.6 % uploaded (AAAAAAAAuZCxxszL92xk6Q, 15204352, 10240 KB)
+0052.355 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAuZCxxszL92xk6Q, 16783763, 10240 KB)
+0053.977 (0) Recording as successfully uploaded: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip (4abf156c18db652094296c0c84b55dcc)
+0053.991 (0) Deleting local file: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip: OK
+0053.994 (0) Dropbox: File upload success (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-plugins.zip): 16390 KB in 15s (1040 KB/s)
+0055.942 (0) Dropbox quota usage: used=104689.4 MB, total=1050880 MB, available=946190.6 MB
+0055.945 (0) Dropbox: Attempt to upload: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip to: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip
+0060.240 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAuZGYZZaaPfl5_A, 7397318, 10240 KB)
+0062.756 (0) Recording as successfully uploaded: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip (84cd26660c2a94277ed982043efff293)
+0062.767 (0) Deleting local file: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip: OK
+0062.770 (0) Dropbox: File upload success (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-themes.zip): 7223 KB in 6s (1058 KB/s)
+0063.287 (0) Dropbox quota usage: used=104696.4 MB, total=1050880 MB, available=946183.6 MB
+0063.290 (0) Dropbox: Attempt to upload: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip to: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip
+0067.299 (0) Dropbox chunked upload: 6.8 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 10485760, 10240 KB)
+0072.375 (0) Dropbox chunked upload: 13.7 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 20971520, 10240 KB)
+0077.603 (0) Dropbox chunked upload: 20.5 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 31457280, 10240 KB)
+0083.041 (0) Dropbox chunked upload: 27.4 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 41943040, 10240 KB)
+0088.201 (0) Dropbox chunked upload: 34.2 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 52428800, 10240 KB)
+0093.522 (0) Dropbox chunked upload: 41.1 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 62914560, 10240 KB)
+0099.151 (0) Dropbox chunked upload: 47.9 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 73400320, 10240 KB)
+0105.775 (0) Dropbox chunked upload: 54.8 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 83886080, 10240 KB)
+0110.871 (0) Dropbox chunked upload: 61.6 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 94371840, 10240 KB)
+0115.949 (0) Dropbox chunked upload: 68.5 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 104857600, 10240 KB)
+0121.048 (0) Dropbox chunked upload: 75.3 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 115343360, 10240 KB)
+0126.321 (0) Dropbox chunked upload: 82.2 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 125829120, 10240 KB)
+0131.109 (0) Dropbox chunked upload: 89 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 136314880, 10240 KB)
+0136.174 (0) Dropbox chunked upload: 95.9 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 146800640, 10240 KB)
+0139.649 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAuZIXjOpIcgoHmw, 153083850, 10240 KB)
+0142.164 (0) Recording as successfully uploaded: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip (8d473566800cebc0cf6b762a3993f2e2)
+0142.230 (0) Deleting local file: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip: OK
+0142.233 (0) Dropbox: File upload success (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-uploads.zip): 149495 KB in 78s (1893 KB/s)
+0142.716 (0) Dropbox quota usage: used=104842.4 MB, total=1050880 MB, available=946037.6 MB
+0142.719 (0) Dropbox: Attempt to upload: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-others.zip to: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-others.zip
+0143.526 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAuZPW2pEAxPF04A, 12523, 10240 KB)
+0144.830 (0) Recording as successfully uploaded: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-others.zip (b9e23f8183a21825c6ac63ddc14097cc)
+0144.836 (0) Deleting local file: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-others.zip: OK
+0144.838 (0) Dropbox: File upload success (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-others.zip): 12 KB in 2s (5 KB/s)
+0145.353 (0) Dropbox quota usage: used=104842.4 MB, total=1050880 MB, available=946037.6 MB
+0145.355 (0) Dropbox: Attempt to upload: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db.gz to: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db.gz
+0146.990 (0) Dropbox chunked upload: 100 % uploaded (AAAAAAAAuZQJhRJ6DmUvHA, 404839, 10240 KB)
+0148.704 (0) Recording as successfully uploaded: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db.gz (b8f59769a0a4b20d50e2969856c8632c)
+0148.710 (0) Deleting local file: backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db.gz: OK
+0148.712 (0) Dropbox: File upload success (backup_2017-09-01-0917_Na_Hill_Designs_488d222bffed-db.gz): 395 KB in 3s (117 KB/s)
+0148.717 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0148.720 (0) Number of backup sets in history: 3; groups (db): 1
+0148.722 (0) Examining (for databases) backup set with group_id=0, nonce=488d222bffed, datestamp=1504257429 (Sep 01 2017 09:17:09)
+0148.724 (0) This backup set is the backup set just made, so will not be deleted.
+0148.726 (0) Examining (for databases) backup set with group_id=0, nonce=9cf5acbce621, datestamp=1503645561 (Aug 25 2017 07:19:21)
+0148.729 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0148.731 (0) Examining (for databases) backup set with group_id=0, nonce=502721c195c9, datestamp=1503069360 (Aug 18 2017 15:16:00)
+0148.733 (0) 1503069360: db: this set includes a database (backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-db.gz); db count is now 2
+0148.735 (0) 1503069360: db: over retain limit (2); will delete this database
+0148.737 (0) Delete file: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-db.gz, service=dropbox
+0148.739 (0) Dropbox: request deletion: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-db.gz
+0149.664 (0) Dropbox: delete succeeded
+0149.668 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0149.670 (0) Number of backup sets in history: 3; groups (files): 1
+0149.671 (0) Examining (for files) backup set with nonce=488d222bffed, datestamp=1504257429 (Sep 01 2017 09:17:09)
+0149.673 (0) This backup set is the backup set just made, so will not be deleted.
+0149.675 (0) This backup set is the backup set just made, so will not be deleted.
+0149.675 (0) This backup set is the backup set just made, so will not be deleted.
+0149.675 (0) This backup set is the backup set just made, so will not be deleted.
+0149.675 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0149.677 (0) Examining (for files) backup set with nonce=9cf5acbce621, datestamp=1503645561 (Aug 25 2017 07:19:21)
+0149.679 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0149.680 (0) Examining (for files) backup set with nonce=502721c195c9, datestamp=1503069360 (Aug 18 2017 15:16:00)
+0149.682 (0) plugins: over retain limit (2); will delete this file entity
+0149.684 (0) themes: over retain limit (2); will delete this file entity
+0149.685 (0) uploads: over retain limit (2); will delete this file entity
+0149.687 (0) others: over retain limit (2); will delete this file entity
+0149.689 (0) Delete file: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-plugins.zip, service=dropbox
+0149.690 (0) Delete file: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-themes.zip, service=dropbox
+0149.692 (0) Delete file: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-uploads.zip, service=dropbox
+0149.694 (0) Delete file: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-others.zip, service=dropbox
+0149.695 (0) Dropbox: request deletion: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-plugins.zip
+0150.683 (0) Dropbox: delete succeeded
+0150.685 (0) Dropbox: request deletion: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-themes.zip
+0151.648 (0) Dropbox: delete succeeded
+0151.650 (0) Dropbox: request deletion: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-uploads.zip
+0152.583 (0) Dropbox: delete succeeded
+0152.585 (0) Dropbox: request deletion: backup_2017-08-18-1516_Na_Hill_Designs_502721c195c9-others.zip
+0153.487 (0) Dropbox: delete succeeded
+0153.491 (0) This backup set is now empty; will remove from history
+0153.492 (0) Deleting log file (log.502721c195c9.txt)
+0153.544 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0153.554 (0) Resume backup (488d222bffed, 0): finish run
+0153.561 (0) Decremented the semaphore (fd) by 1
+0153.565 (0) Semaphore (fd) unlocked
+0153.569 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0153.582 (0) No email will/can be sent - the user has not configured an email address.
+0153.585 (0) The backup apparently succeeded and is now complete

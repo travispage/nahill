@@ -1,0 +1,134 @@
+#_post_aside.no-image #pixgallery {
+	margin: 10px 5px;
+	min-height: 115px;
+}
+#_post_aside.no-image #pixgallery .open_pixgallery {
+	border: 1px dashed #d9d9d9;
+}
+#_post_aside.no-image #pixgallery .open_pixgallery .icon {
+	color: #262526; 
+	opacity: 1;
+}
+#_post_aside.no-image #pixgallery .open_pixgallery .icon:before {
+	content: "\f093";
+}
+#_post_aside.no-image #pixgallery .open_pixgallery:hover .icon {
+	color: #0095ea;
+}
+
+#_post_aside.no-image .clear_gallery {
+	display: none !important;
+}
+
+#_post_aside.multiple-images #pixgallery > ul {
+	margin: 0;
+}
+#_post_aside.multiple-images #pixgallery > ul li {
+	margin: 0;
+	padding: 5px; 
+	width: 33%;
+}
+
+#_post_aside #pixgallery .open_pixgallery {
+	background: none;
+	opacity: 1;
+	-webkit-transition: opacity 0.1s ease-in 0;
+}
+#_post_aside #pixgallery .open_pixgallery .icon {
+	color: #262526; 
+	font-size: 40px;
+	opacity: 0;
+	-webkit-transition: opacity 0.1s ease-in 0, color 0.1s ease-in 0;
+}
+#_post_aside #pixgallery .open_pixgallery .icon:before {
+	content: "\f040";
+}
+#_post_aside #pixgallery .open_pixgallery .clear_gallery {
+	background: none;
+	color: #919191;
+	display: block;
+	font-size: 11px;
+	margin: 0;
+	opacity: 0;
+	text-transform: uppercase;
+	-webkit-transition: opacity 0.1s ease-in 0, color 0.1s ease-in 0;
+}
+#_post_aside #pixgallery .open_pixgallery .clear_gallery:hover {
+	color: #0095ea;
+}
+#_post_aside #pixgallery .open_pixgallery:hover .icon,
+#_post_aside #pixgallery .open_pixgallery:hover .clear_gallery {
+	opacity: 1;
+}
+
+#_post_aside #pixgallery > ul {
+	min-height: 0;
+	padding: 0;
+}
+
+#_post_aside #pixgallery > ul li {
+	text-align: center; 
+	width: 100%;
+}
+#_post_aside #pixgallery > ul li img {
+	border-radius: 0; 
+	height: auto;
+	max-width: 100%;
+	width: auto;
+}
+
+#_post_aside table.cmb_metabox td,
+#_post_aside table.cmb_metabox th {
+	border-bottom: none; 
+	padding: 0;
+}
+
+body:not(.post-type-mies_portfolio):not(.post-type-page) .compat-item {
+	display: none;
+}
+
+#_post_aside #pixgallery .open_pixgallery .icon:before {
+	left: 50%;
+	position: absolute;
+	top: 50%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+}
+
+#_post_aside.multiple-images #pixgallery > ul li {
+	box-sizing: border-box;
+}
+
+.cmb_metabox .empty label {
+	text-decoration: line-through;
+}
+
+.cmb_metabox .empty td:after {
+	content: " (This field will not be displayed)";
+	font-size: 80%; 
+	opacity: 0;
+}
+
+.cmb_metabox .empty:hover td:after {
+	opacity: 0.3;
+}
+
+.cmb_metabox .empty input {
+	opacity: 0.5;
+}
+
+div#pixfields {
+	display: none;
+}
+div#pixfields.active {
+	display: block;
+}
+
+#info-project-menu-labels + table tr {
+	float: left; 
+	width: 50%;
+}
+#info-project-menu-labels + table tr td,
+#info-project-menu-labels + table tr input {
+	width: 100%;
+}

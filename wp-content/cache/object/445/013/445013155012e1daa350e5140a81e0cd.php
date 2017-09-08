@@ -1,0 +1,1 @@
+r~RY<?php exit; ?>a:1:{s:7:"content";a:3:{s:5:"block";b:0;s:9:"cache_ttl";i:1498578545;s:10:"report_ttl";i:1498574950;}}

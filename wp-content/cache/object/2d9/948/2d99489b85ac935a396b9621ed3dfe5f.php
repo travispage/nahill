@@ -1,0 +1,14 @@
+R�Y<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"207";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-12-11 08:32:16";s:13:"post_date_gmt";s:19:"2014-12-11 08:32:16";s:12:"post_content";s:1755:"<p class="intro">Designed by Norway-based practice <b>Snøhetta</b>, in collaboration with local firm <b>EHDD</b>, the 10-story concrete structure will compliment SFMOMA’s original, Mario Botta-designed, red-brick museum.</p>
+Praesent sodales ante quam, eu dictum velit ornare quis. Aliquam elementum interdum elit, sollicitudin egestas libero bibendum a. Pellentesque blandit vel nisi et iaculis. Donec nec tristique arcu. Proin ac congue ante. Nunc in convallis metus. Donec luctus nisl augue, quis finibus lectus auctor nec. Cras sed rutrum lacus, eu eleifend sem. Proin faucibus consectetur metus in maximus.
+<blockquote>More free-to-the-public space, expanded education programs and an abundance of flexible performance-based gallery space.</blockquote>
+Donec sodales eros sed metus consectetur, ac dapibus felis gravida. Morbi vestibulum lorem non metus pulvinar tempus. Ut non ligula ut odio ultrices tincidunt. Morbi sed hendrerit nulla.
+
+Vestibulum tincidunt, dolor sit amet placerat facilisis, ipsum ex faucibus tortor, at pellentesque turpis ipsum nec arcu.
+
+&nbsp;
+
+[caption id="attachment_209" align="alignnone" width="1024"]<a href="http://pixelgrade.com/demos/mies/wp-content/uploads/2014/12/photo_replacer4.jpg"><img class="size-large wp-image-209" src="http://pixelgrade.com/demos/mies/wp-content/uploads/2014/12/photo_replacer1.jpg" alt="SFMOMA Expansion – Courtesy of MIR and Snøhetta" width="1024" height="754" /></a> SFMOMA Expansion – Courtesy of MIR and Snøhetta[/caption]
+
+Quisque non arcu vehicula, cursus augue in, ultrices arcu. In tortor neque, euismod a purus ut, feugiat suscipit mi. Donec vitae aliquet arcu.
+
+News via <a href="http://www.sfmoma.org/about/press/press_news/releases/952" target="_blank">SFMOMA</a>";s:10:"post_title";s:38:"The San Francisco Museum of Modern Art";s:12:"post_excerpt";s:133:"Designed by Norway-based practice Snøhetta, in collaboration with local firm EHDD, the 10-story concrete structure will compliment..";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:31:"san-francisco-museum-modern-art";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-12-11 08:32:16";s:17:"post_modified_gmt";s:19:"2014-12-11 08:32:16";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:39:"http://pixelgrade.com/demos/mies/?p=207";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

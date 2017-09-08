@@ -1,0 +1,4679 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MIES - A Wordpress Theme\n"
+"POT-Creation-Date: 2015-09-02 17:26+0300\n"
+"PO-Revision-Date: 2015-09-02 17:26+0300\n"
+"Last-Translator: Vlad Olaru <vlad.olaru@pixelgrade.com>\n"
+"Language-Team: PixelGrade <contact@pixelgrade.com>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n_noop:1,2;_xn;_ex;_nx_noop:1,2;"
+"translate_nooped_plural;_n:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: 404.php:14
+msgid "Whoops!"
+msgstr ""
+
+#: 404.php:16
+msgid ""
+"The page you're looking for could have been deleted or never have existed"
+msgstr ""
+
+#: 404.php:19
+msgid "&#8592; Return to the Home Page"
+msgstr ""
+
+#: archive-mies_portfolio.php:12 config/admin-panel/redux-sections.php:1116
+msgid "Portfolio"
+msgstr "Portafolio"
+
+#: comments.php:30
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+msgid "There are no comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Add yours"
+msgstr ""
+
+#: comments.php:49 comments.php:69
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:51 comments.php:71
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: comments.php:52 comments.php:72
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios recientes &rarr;"
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:95 comments.php:111
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:100 comments.php:116 woocommerce/single-product-reviews.php:65
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:101 comments.php:117 woocommerce/single-product-reviews.php:67
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:101 comments.php:117
+msgid "your@email.com"
+msgstr ""
+
+#: comments.php:104 comments.php:121 woocommerce/single-product-reviews.php:70
+msgid "Submit"
+msgstr ""
+
+#: comments.php:106 comments.php:123
+msgid "Comment"
+msgstr "Comentario "
+
+#: comments.php:106 comments.php:123
+msgid "Your thoughts.."
+msgstr ""
+
+#: comments.php:118
+msgid "Url"
+msgstr "URL"
+
+#: comments.php:118
+msgid "Website"
+msgstr "Sitio Web"
+
+#: config/activation.php:66 config/activation.php:67
+msgid "Project"
+msgstr "Proyecto"
+
+#: config/activation.php:68
+msgid "Add New"
+msgstr ""
+
+#: config/activation.php:69
+msgid "Add New Project"
+msgstr "Añadir nuevo Proyecto"
+
+#: config/activation.php:70
+msgid "Edit Project"
+msgstr "Editar Proyecto"
+
+#: config/activation.php:71
+msgid "New Project"
+msgstr "Nuevo Proyecto"
+
+#: config/activation.php:72
+msgid "All Projects"
+msgstr ""
+
+#: config/activation.php:73 templates/portfolio/content-slider.php:65
+msgid "View Project"
+msgstr "Ver Proyecto"
+
+#: config/activation.php:74
+msgid "Search Projects"
+msgstr ""
+
+#: config/activation.php:75
+msgid "No Project found"
+msgstr "No se han encontrado Proyecto"
+
+#: config/activation.php:76
+msgid "No Project found in Trash"
+msgstr "No se han encontrado en la Papelera del proyecto"
+
+#: config/activation.php:77
+msgid "Projects"
+msgstr "Proyectos"
+
+#: config/activation.php:102
+msgid "Project Categories"
+msgstr ""
+
+#: config/activation.php:103
+msgid "Project Category"
+msgstr ""
+
+#: config/activation.php:104
+msgid "Search Project Categories"
+msgstr ""
+
+#: config/activation.php:105
+msgid "All Project Categories"
+msgstr ""
+
+#: config/activation.php:106
+msgid "Parent Project Category"
+msgstr ""
+
+#: config/activation.php:107
+msgid "Parent Project Category: "
+msgstr ""
+
+#: config/activation.php:108
+msgid "Edit Project Category"
+msgstr ""
+
+#: config/activation.php:109
+msgid "Update Project Category"
+msgstr ""
+
+#: config/activation.php:110
+msgid "Add New Project Category"
+msgstr ""
+
+#: config/activation.php:111
+msgid "New Project Category Name"
+msgstr ""
+
+#: config/activation.php:112
+msgid "Portfolio Categories"
+msgstr "Categorías de Portafolio"
+
+#: config/activation.php:124
+msgid "Hero Area Settings"
+msgstr ""
+
+#: config/activation.php:137
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:476
+#: wpgrade-core/vendor/redux3/inc/fields/dimensions/field_dimensions.php:177
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:465
+msgid "Height"
+msgstr "Auto Altura"
+
+#: config/activation.php:138
+msgid "Select the height of the header area in relation to the browser window."
+msgstr ""
+
+#: config/activation.php:143
+msgid "&#9673;&#9673;&#9673; &nbsp;Full"
+msgstr ""
+
+#: config/activation.php:147
+msgid "&#9673;&#9673;&#9711; &nbsp;Two Thirds"
+msgstr ""
+
+#: config/activation.php:151
+msgid "&nbsp; &#9673;&#9711; &nbsp;&nbsp;Half"
+msgstr ""
+
+#: config/activation.php:155
+msgid "Auto (content based)"
+msgstr ""
+
+#: config/activation.php:162
+msgid "Subtitle"
+msgstr "Subtitle Font"
+
+#: config/activation.php:168
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:145
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr "Título"
+
+#: config/activation.php:169
+msgid ""
+"If left empty we will use the page title. Tip: put a space if you don't want "
+"any cover text."
+msgstr ""
+
+#: config/activation.php:174
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:149
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr ""
+
+#: config/activation.php:175
+msgid ""
+"You can use shortcodes (like the Separator) or even images to further "
+"embellish this."
+msgstr ""
+
+#: config/activation.php:187
+msgid ""
+"Inner Content Style <a class=\"tooltip\" title=\"\n"
+"\t\t\t\t\t\t\t<p><strong>Light</strong> style uses white text for dark "
+"background colors.</p>\n"
+"\t\t\t\t\t\t\t<p><strong>Shadowed</strong> style add a transparent shadow "
+"behind the light text.</p>\n"
+"\t\t\t\t\t\t\t<p><strong>Dark</strong> style uses black text for light "
+"background colors.</p>\n"
+"\t\t\t\t\t\t\t\"></a>"
+msgstr ""
+
+#: config/activation.php:192
+msgid "Select the style of the elements inside the hero area"
+msgstr ""
+
+#: config/activation.php:197
+msgid "Light"
+msgstr ""
+
+#: config/activation.php:201
+msgid "Shadowed"
+msgstr ""
+
+#: config/activation.php:205
+msgid "Dark"
+msgstr ""
+
+#: config/activation.php:219 config/activation.php:362
+msgid "Social Share"
+msgstr ""
+
+#: config/activation.php:224 config/activation.php:279
+#: config/activation.php:367
+msgid "Enabled"
+msgstr "Permite"
+
+#: config/activation.php:228 config/activation.php:283
+#: config/activation.php:371
+msgid "Disabled"
+msgstr "Inhabilitar"
+
+#: config/activation.php:241
+msgid "Slideshow Options:"
+msgstr ""
+
+#: config/activation.php:246
+msgid ""
+"Image Scaling <a class=\"tooltip\" title=\"<p><strong>Fill</strong> scales "
+"image to completely fill slider container (recommended for landscape "
+"images)</p>\n"
+"\t\t\t\t\t\t\t\t\t\t<p><strong>Fit</strong> scales image to fit the "
+"container (recommended for portrait images)</p>\n"
+"\t\t\t\t\t\t\t\t\t\t<p><strong>Fit if Smaller</strong> scales image to fit "
+"only if size of slider container is less than size of image.</p>\n"
+"\t\t\t\t\t\t\t\t\t\t<p><strong>Auto Height</strong> scales the container to "
+"fit the full size image.</p>\"></a>"
+msgstr ""
+
+#: config/activation.php:250
+msgid ""
+"<a target=\"_blank\" href=\"http://bit.ly/slider-image-scaling\" style="
+"\"font-size: 80%;\">Visual explanation</a></p>"
+msgstr ""
+
+#: config/activation.php:255
+msgid "Fill"
+msgstr "AÑADIR"
+
+#: config/activation.php:259
+msgid "Fit"
+msgstr "Fit"
+
+#: config/activation.php:263
+msgid "Fit if Smaller"
+msgstr "Fit if Smaller"
+
+#: config/activation.php:267
+msgid "Auto Height"
+msgstr ""
+
+#: config/activation.php:274
+msgid "Slider Autoplay"
+msgstr ""
+
+#: config/activation.php:290
+msgid "Autoplay delay between slides (in milliseconds)"
+msgstr ""
+"Retardo de reproducción automática entre diapositivas (en milisegundos)"
+
+#: config/activation.php:309
+msgid "Map Coordinates & Display Options"
+msgstr ""
+
+#: config/activation.php:322
+msgid "Map Height"
+msgstr "Auto Altura"
+
+#: config/activation.php:323
+msgid ""
+"<p class=\"cmb_metabox_description\">Select the height of the Google Map "
+"area in relation to the browser window.</p>"
+msgstr ""
+
+#: config/activation.php:328
+msgid "&nbsp; &#9673;&#9711; &nbsp;Half"
+msgstr ""
+
+#: config/activation.php:332
+msgid "&#9673;&#9673;&#9711; Two Thirds"
+msgstr ""
+
+#: config/activation.php:336
+msgid "&#9673;&#9673;&#9673; Full Height"
+msgstr ""
+
+#: config/activation.php:343
+msgid "Google Maps Pins"
+msgstr ""
+
+#: config/activation.php:344
+msgid ""
+"Paste here the Share URL you have taken from <a href=\"http://www.google.com/"
+"maps\" target=\"_blank\">Google Maps</a>."
+msgstr ""
+
+#: config/activation.php:350
+msgid "London"
+msgstr ""
+
+#: config/activation.php:355
+msgid "Custom Colors"
+msgstr "Custom Code"
+
+#: config/activation.php:356
+msgid "Allow us to change the map colors to better match your website."
+msgstr ""
+"Utilice el selector de color para cambiar el color principal del sitio para "
+"que coincida con el color de la marca."
+
+#: config/activation.php:382
+msgid ""
+"Hero Area <a class=\"tooltip\" title=\"This image will be used for the top "
+"area.<p>Tip: Uploading <strong>multiple images</strong>, will transform them "
+"in a <strong>slider</strong>.</p>\"></a>"
+msgstr ""
+
+#: config/activation.php:389
+msgid "Hero Image"
+msgstr ""
+
+#: config/activation.php:399
+msgid "Projects List"
+msgstr ""
+
+#: config/activation.php:411
+msgid "Layout"
+msgstr ""
+
+#: config/activation.php:412 config/activation.php:429
+msgid "Select the project layout."
+msgstr ""
+
+#: config/activation.php:417
+msgid "Grid"
+msgstr "Grid"
+
+#: config/activation.php:421
+msgid "Slider"
+msgstr ""
+
+#: config/activation.php:428
+#: inc/required-plugins/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Source"
+
+#: config/activation.php:434
+msgid "Latest Projects"
+msgstr ""
+
+#: config/activation.php:438
+msgid "By Category"
+msgstr ""
+
+#: config/activation.php:442
+msgid "Selected"
+msgstr ""
+
+#: config/activation.php:449
+msgid "Select a portfolio category"
+msgstr "Seleccione una categoría cartera"
+
+#: config/activation.php:450
+msgid "Select a portfolio category and we will show it on your homepage."
+msgstr ""
+"Seleccione una categoría de la cartera y lo mostráremos en tu página "
+"principal."
+
+#: config/activation.php:464
+msgid "Select projects"
+msgstr ""
+
+#: config/activation.php:466
+msgid ""
+"Choose your projects. Drag and drop to reorder them to your liking. These "
+"projects will be excluded from the main projects list."
+msgstr ""
+
+#: config/activation.php:484
+msgid "Number of Projects"
+msgstr ""
+
+#: config/activation.php:497
+msgid "View more link label"
+msgstr ""
+
+#: config/admin-panel/redux-args.php:37
+msgid ""
+"<h4>Theme Options</h4><p>These allow you to adjust the overall settings for "
+"your website.</p>"
+msgstr ""
+"<h4>Opciones del tema</h4><p>Estas te permiten ajustar la configuración "
+"general de su sitio web.</p>"
+
+#: config/admin-panel/redux-args.php:48
+msgid "Follow us on Twitter"
+msgstr "Síguenos en Twitter"
+
+#: config/admin-panel/redux-args.php:53
+msgid "Find us on LinkedIn"
+msgstr "Encuéntrenos en LinkedIn"
+
+#: config/admin-panel/redux-args.php:58
+msgid "Find us on Facebook"
+msgstr "Síguenos en Facebook"
+
+#: config/admin-panel/redux-args.php:83
+msgid "Theme Options"
+msgstr "Opciones del Tema"
+
+#: config/admin-panel/redux-args.php:87
+#: wpgrade-core/vendor/redux3/framework.php:180
+#: wpgrade-core/vendor/redux3/framework.php:184
+msgid "Options"
+msgstr "Opciones"
+
+#: config/admin-panel/redux-sections.php:22
+msgid "General"
+msgstr "Generalidades"
+
+#: config/admin-panel/redux-sections.php:23
+msgid ""
+"General settings contains options that have a site-wide reach like defining "
+"your site dynamics or branding (including logo and other icons)."
+msgstr ""
+"Configuración general contiene opciones que tienen un alcance de todo el "
+"sitio, como la definición de la dinámica de su sitio o de marca (incluyendo "
+"el logotipo y otros iconos)."
+
+#: config/admin-panel/redux-sections.php:28
+msgid "Smooth Scrolling"
+msgstr "Smooth Scrolling"
+
+#: config/admin-panel/redux-sections.php:29
+msgid "Enable / Disable smooth scrolling."
+msgstr "Activar / Desactivar el Smooth Scrolling"
+
+#: config/admin-panel/redux-sections.php:34
+msgid "Branding"
+msgstr "Branding"
+
+#: config/admin-panel/redux-sections.php:40
+msgid "Main Logo (Dark)"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:41
+msgid ""
+"If there is no image uploaded, plain text will be used instead (generated "
+"from the site's name)."
+msgstr ""
+"Si no hay ninguna imagen cargada, texto plano se utiliza en su lugar "
+"(generado a partir del nombre del sitio)."
+
+#: config/admin-panel/redux-sections.php:46
+msgid "Logo Inversed (Light)"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:47
+msgid "Upload an inverted color logo."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:52
+msgid "2x Retina Logo"
+msgstr "2x Retina Logo"
+
+#: config/admin-panel/redux-sections.php:53
+msgid "To be Retina-ready you need to add a 2x size logo image."
+msgstr ""
+"Para ser Retina-Ready es necesario agregar una imagen de logotipo tamaño 2x."
+
+#: config/admin-panel/redux-sections.php:60
+msgid "[Retina] Main Logo"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:67
+msgid "[Retina] Logo Inversed"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:74
+msgid "Favicon"
+msgstr "Favicon"
+
+#: config/admin-panel/redux-sections.php:75
+msgid "Upload a 16 x 16px image that will be used as a favicon."
+msgstr "Upload una imagen de 16 x 16px que se utilizará como un favicon."
+
+#: config/admin-panel/redux-sections.php:81
+msgid "Apple Touch Icon"
+msgstr "Apple Touch Icon"
+
+#: config/admin-panel/redux-sections.php:82
+msgid ""
+"You can customize the icon for the Apple touch shortcut to your website. The "
+"size of this icon must be 77x77px."
+msgstr ""
+"Usted puede personalizar el icono para el Apple Touch en su sitio web. El "
+"tamaño de este icono debe ser 77x77px."
+
+#: config/admin-panel/redux-sections.php:88
+msgid "Metro Icon"
+msgstr "Metro Icon"
+
+#: config/admin-panel/redux-sections.php:89
+msgid "The size of this icon must be 144x144px."
+msgstr "El tamaño de este icono debe ser 144x144px."
+
+#: config/admin-panel/redux-sections.php:103
+#: config/admin-panel/redux-sections.php:187 config/customify.php:12
+msgid "Colors"
+msgstr "Color principal"
+
+#: config/admin-panel/redux-sections.php:105
+msgid ""
+"Using the color pickers you can change the colors of the most important "
+"elements. If you want to override the color of some elements you can always "
+"use Custom CSS code in Theme Options - Custom Code."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:115
+#: config/admin-panel/redux-sections.php:276
+msgid "Backgrounds"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:126
+#: config/admin-panel/redux-sections.php:423 config/customify.php:501
+msgid "Typography"
+msgstr "Tipografía"
+
+#: config/admin-panel/redux-sections.php:137
+#: config/admin-panel/redux-sections.php:609
+msgid "Sizes and Spacing"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:148
+msgid "Other Options"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:163
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:316
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:305
+msgid "Style"
+msgstr "Style"
+
+#: config/admin-panel/redux-sections.php:164
+msgid ""
+"The style options control the general styling of the site, like accent color "
+"and Google Web Fonts. You can choose custom fonts for various typography "
+"elements with font weight, character set, size and/or line height. You also "
+"have a live preview for your chosen fonts."
+msgstr ""
+"Las opciones de estilo controlan el estilo general del sitio, como el color "
+"y Google Web Fonts. Usted puede elegir fuentes personalizadas para diversos "
+"elementos de tipografía con el peso de la fuente, juego de caracteres, el "
+"tamaño y / o la altura de la línea. Usted también tiene un live preview para "
+"sus fuentes elegidas."
+
+#: config/admin-panel/redux-sections.php:170
+msgid "Access the Live Customizer"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:195 config/customify.php:18
+msgid "Body Text Color"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:212 config/customify.php:32
+msgid "Light Text Color"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:232 config/customify.php:49
+msgid "Links Color"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:250
+msgid "Headings color"
+msgstr "Headings Font"
+
+#: config/admin-panel/redux-sections.php:286 config/customify.php:531
+msgid "Menu"
+msgstr "Área de menú"
+
+#: config/admin-panel/redux-sections.php:302
+#: config/admin-panel/redux-sections.php:345
+#: config/admin-panel/redux-sections.php:388
+msgid "<button></button>"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:303
+#: config/admin-panel/redux-sections.php:346 config/customify.php:157
+#: config/customify.php:336
+msgid "Container background with image."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:329
+#: config/admin-panel/redux-sections.php:675 config/customify.php:165
+msgid "Content"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:372
+#: config/admin-panel/redux-sections.php:1055 config/customify.php:470
+msgid "Footer"
+msgstr "Pie de página"
+
+#: config/admin-panel/redux-sections.php:389 config/customify.php:489
+msgid "Footer background image."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:443
+msgid "<button></button> Menu"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:444
+#: config/admin-panel/redux-sections.php:542 config/customify.php:619
+msgid "Font for content and widget text."
+msgstr "Fuente para contenido y texto del widget."
+
+#: config/admin-panel/redux-sections.php:459
+#: config/admin-panel/redux-sections.php:556 config/customify.php:541
+#: config/customify.php:629
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:466
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:467
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:455
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:456
+msgid "Font Size"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:480
+#: config/admin-panel/redux-sections.php:577 config/customify.php:560
+#: config/customify.php:648
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:475
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:476
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:464
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:465
+msgid "Line Height"
+msgstr "Auto Altura"
+
+#: config/admin-panel/redux-sections.php:514
+msgid "<button></button> Headings"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:515 config/customify.php:510
+msgid "Font for titles and headings."
+msgstr "Fuente para tus headings"
+
+#: config/admin-panel/redux-sections.php:541
+msgid "<button></button> Body Text"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:618 config/customify.php:83
+msgid "Header"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:625 config/customify.php:92
+msgid "Logo Height"
+msgstr "Auto Altura"
+
+#: config/admin-panel/redux-sections.php:651 config/customify.php:116
+msgid "Header Vertical Margins"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:682
+msgid "Site Container Width"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:683
+#: config/admin-panel/redux-sections.php:707 config/customify.php:184
+#: config/customify.php:349
+msgid "Set the width of the container."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:706 config/customify.php:348
+msgid "Portfolio Archive Width"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:730
+msgid "Blog Post Width"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:731 config/customify.php:231
+msgid "Set the width of the blog single post container."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:754
+msgid "Sections Vertical Spacing"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:782
+msgid "Archive Grid"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:791
+#: config/admin-panel/redux-sections.php:900 config/customify.php:256
+#: config/customify.php:369
+msgid "Items Horizontal Spacing"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:823
+#: config/admin-panel/redux-sections.php:937 config/customify.php:296
+#: config/customify.php:401
+msgid "Items Vertical Spacing"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:848 config/customify.php:427
+msgid "Number of columns on big screens"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:849 config/customify.php:428
+msgid "LARGE screen size"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:864 config/customify.php:442
+msgid "Number of columns on medium screens"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:865 config/customify.php:443
+msgid "MEDIUM screen size"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:879 config/customify.php:456
+msgid "Number of columns on small screens"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:880 config/customify.php:457
+msgid "SMALL screen size"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:891 config/customify.php:251
+msgid "Content Grid"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:971
+msgid "General Options"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:980
+msgid "Elements"
+msgstr "Comentario "
+
+#: config/admin-panel/redux-sections.php:988 config/customify.php:170
+msgid "Parallax Movement Speed"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1003
+msgid "Navigation Bar"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1010 config/customify.php:87
+msgid "Always Show on Scroll (Sticky)"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1018 config/customify.php:137
+msgid "Menu Text"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1033
+msgid "Reset Options"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1039
+msgid "Reset to Defaults"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1056
+msgid ""
+"Footer options allow you to control both the visual and functional aspects "
+"of the page footer area."
+msgstr ""
+"Opciones de área de frontera le permiten controlar tanto los aspectos "
+"visuales y funcionales de la zona fronteriza."
+
+#: config/admin-panel/redux-sections.php:1061
+msgid "Widget Area Number of Columns"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1062
+msgid "Select how many number of columns should the Footer widget area have."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1072
+msgid "Select the number of columns"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1081
+msgid "Widget Column width"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1088
+msgid "Select the widget width"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1117
+msgid ""
+"Project options control the various aspects related to the your single "
+"project view."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1121
+msgid "Project Page"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1127
+msgid "Floating Menu Labels:"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1127
+msgid ""
+"Set the labels for top–right navigation menu. Leave empty if you want to "
+"hide it."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1135
+msgid "Archive Link"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1142
+msgid "Previous Link"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1149
+msgid "Next Link"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1156
+msgid "Share Link"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1161
+msgid "Projects Archives"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1167
+msgid "Projects Per Page"
+msgstr "Proyectos por página"
+
+#: config/admin-panel/redux-sections.php:1168
+msgid "Set the number of projects to load at once."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1174
+msgid "Allow projects filter by category"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1186
+msgid "Blog - Archive"
+msgstr "Archivos del blog"
+
+#: config/admin-panel/redux-sections.php:1187
+msgid ""
+"Archive options control the various aspects related to displaying posts in "
+"blog archives. You can control things like excerpt length and various layout "
+"aspects."
+msgstr ""
+"Opciones blog controlan los diversos aspectos relacionados con la "
+"visualización de los mensajes, tanto en los archivos y las páginas "
+"individuales. Usted puede controlar las cosas como la longitud extracto y "
+"diseño de página."
+
+#: config/admin-panel/redux-sections.php:1192
+msgid "Read More Text"
+msgstr "Leer más"
+
+#: config/admin-panel/redux-sections.php:1193
+msgid "Set the read more link text."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1199
+msgid "Excerpt \"More\" Text"
+msgstr "Excerpt \"Mas\" Text"
+
+#: config/admin-panel/redux-sections.php:1200
+msgid "Change the default [...] with something else."
+msgstr ""
+"Cambie el valor predeterminado [...] con otra cosa (dejar en blanco si desea "
+"quitarlo)."
+
+#: config/admin-panel/redux-sections.php:1206
+msgid "Excerpt Length"
+msgstr "Excerpt Length"
+
+#: config/admin-panel/redux-sections.php:1207
+msgid "Set the number of characters for posts excerpt."
+msgstr "Establecer el número de caracteres para los mensajes Excerpt."
+
+#: config/admin-panel/redux-sections.php:1212
+msgid "Posts Meta Informations"
+msgstr "Información del tema"
+
+#: config/admin-panel/redux-sections.php:1218
+msgid "Date"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1219
+msgid "Display the post publish date."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1227
+msgid "Blog - Single"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1228
+msgid ""
+"Post options control the various aspects related to the <b>single post page</"
+"b>."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1233
+msgid "Show Author Info Box"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1234
+msgid ""
+"Do you want to show author info box with avatar and description bellow the "
+"post?"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1239
+msgid "Comments"
+msgstr "Comentario "
+
+#: config/admin-panel/redux-sections.php:1245
+msgid "Show Comments Avatars"
+msgstr "Comentarios recientes &rarr;"
+
+#: config/admin-panel/redux-sections.php:1246
+msgid "Do you want to show avatars in comments?"
+msgstr "¿Quieres mostrar los Share Buttons en sus proyectos?"
+
+#: config/admin-panel/redux-sections.php:1251
+msgid "Sidebar"
+msgstr "Blog Sidebar"
+
+#: config/admin-panel/redux-sections.php:1257
+msgid "Show Sidebar"
+msgstr "Blog Sidebar"
+
+#: config/admin-panel/redux-sections.php:1258
+msgid "Show the main sidebar in the single post pages."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1274
+msgid "Social and SEO"
+msgstr "Social y SEO"
+
+#: config/admin-panel/redux-sections.php:1275
+msgid ""
+"Social and SEO options allow you to display your social links and choose "
+"where to display them. Then you can set the social SEO related info added in "
+"the meta tags or used in various widgets."
+msgstr ""
+"Opciones sociales y SEO le permiten mostrar sus links sociales y elegir "
+"dónde mostrarlos. A continuación, puede establecer la información "
+"relacionada SEO social añadido en los meta tags o usada en varios widgets."
+
+#: config/admin-panel/redux-sections.php:1279
+msgid "Sharing"
+msgstr "Compartir"
+
+#: config/admin-panel/redux-sections.php:1500
+msgid "Share Services"
+msgstr "Servicios de Share"
+
+#: config/admin-panel/redux-sections.php:1501
+msgid ""
+"Add here the share services you want to use, single comma delimited (no "
+"spaces). You can find the full list of services here: <a href=\"http://www."
+"addthis.com/services/list\">http://www.addthis.com/services/list</a>. Also "
+"you can use the <strong>more</strong> tag to show the plus sign and the "
+"<strong>counter</strong> tag to show a global share counter.<br/><br/"
+">Important: If you want to allow AddThis to show your visitors personalized "
+"lists of share buttons you can use the <strong>preferred</strong> tag. More "
+"about this here: <a href=\"http://bit.ly/1fLP69i\">http://bit.ly/1fLP69i</a>."
+msgstr ""
+"Añadir aquí los Servicios de Share que desea utilizar, solo delimitado por "
+"comas (sin espacios). Puede encontrar la lista completa de los servicios "
+"aquí: <a href=\"http://www.addthis.com/services/list\">http://www.addthis."
+"com/services/list</a>.También puede utilizar el tag <strong> </ strong> para "
+"mostrar el signo más y el  <strong> contador </ strong> para mostrar un "
+"contador de cuota mundial<br/><br/>Importante: Si desea permitir AddThis "
+"para mostrar a sus visitantes listas personalizadas de los Share Buttons, se "
+"puede utilizar el tag <strong>preferido </strong>. Más sobre esto aquí: <a "
+"href=\"http://bit.ly/1fLP69i\">http://bit.ly/1fLP69i</a>."
+
+#: config/admin-panel/redux-sections.php:1507
+msgid "Sharing Analytics"
+msgstr "Compartir Analytics"
+
+#: config/admin-panel/redux-sections.php:1508
+msgid "Do you want to get analytics for your social shares?"
+msgstr "¿Quieres conseguir analytics para sus acciones sociales?"
+
+#: config/admin-panel/redux-sections.php:1514
+msgid "AddThis Tracking"
+msgstr "AddThis Tracking"
+
+#: config/admin-panel/redux-sections.php:1515
+msgid ""
+"Do you want to enable AddThis tracking? This will all you to see sharing "
+"analytics in your AddThis account (see more here: <a href=\"http://bit."
+"ly/1oe5zad\">bit.ly/1oe5zad</a>)"
+msgstr ""
+"¿Quieres activar AddThis Tracking? Esto le permitirá ver los sharing "
+"analytics en su cuenta AddThis (ver más aquí: <a href=\"http://bit.ly/1oe5zad"
+"\">bit.ly/1oe5zad</a>)"
+
+#: config/admin-panel/redux-sections.php:1522
+msgid "AddThis Username"
+msgstr "AddThis Username"
+
+#: config/admin-panel/redux-sections.php:1523
+msgid "Enter here your AddThis username so you will receive analytics data."
+msgstr ""
+"Escriba aquí su AddThis Username por lo que recibirá los datos de análisis."
+
+#: config/admin-panel/redux-sections.php:1530
+msgid "Google Analytics Tracking"
+msgstr "Google Analytics Tracking"
+
+#: config/admin-panel/redux-sections.php:1531
+msgid ""
+"Do you want to enable the AddThis - Google Analytics tracking integration? "
+"See more about this here: <a href=\"http://bit.ly/1kxPg7K\">bit.ly/1kxPg7K</"
+"a>"
+msgstr ""
+"¿Usted desea habilitar el AddThis - Google Analytics tracking integration? "
+"Vea más sobre esto aquí:  <a href=\"http://bit.ly/1kxPg7K\">bit.ly/1kxPg7K</"
+"a>"
+
+#: config/admin-panel/redux-sections.php:1538
+msgid "GA Property ID"
+msgstr "GA Property ID"
+
+#: config/admin-panel/redux-sections.php:1539
+msgid ""
+"Enter here your GA property ID (generally a serial number of the form UA-"
+"xxxxxx-x)."
+msgstr ""
+"Indica aquí tu GA property ID (generalmente un número de serie de la forma "
+"UA-xxxxxx-x)."
+
+#: config/admin-panel/redux-sections.php:1546
+msgid "GA Social Tracking"
+msgstr "GA Social Tracking"
+
+#: config/admin-panel/redux-sections.php:1547
+msgid ""
+"If you are using the latest version of GA code, you can take advantage of "
+"Google's new <a href=\"http://bit.ly/1iVvkbk\">social interaction analytics</"
+"a>."
+msgstr ""
+"Si está utilizando la última versión del código de GA, se puede tomar "
+"ventaja de la nueva <a href=\"http://bit.ly/1iVvkbk\">social interaction "
+"analytics</a>."
+
+#: config/admin-panel/redux-sections.php:1553
+msgid "Social Metas"
+msgstr "Metas Sociales"
+
+#: config/admin-panel/redux-sections.php:1559
+msgid "Add Social Meta Tags"
+msgstr "Añadir Sociales Meta Tags"
+
+#: config/admin-panel/redux-sections.php:1560
+msgid ""
+"Let us properly prepare your theme for the social sharing and discovery by "
+"adding the needed metatags in the <head> section. These include Open Graph "
+"(Facebook), Google+ and Twitter metas."
+msgstr ""
+"Preparémonos adecuadamente su tema para el intercambio social y el "
+"descubrimiento, mediante la adición de los metatags necesarios en la <head> "
+"sección . Estos incluyen metas Open Graph (Facebook), Google+ y Twitter."
+
+#: config/admin-panel/redux-sections.php:1566
+msgid "Facebook Application ID"
+msgstr "Facebook Application ID"
+
+#: config/admin-panel/redux-sections.php:1567
+msgid ""
+"Enter the Facebook Application ID of the Fan Page which is associated with "
+"this website. You can create one <a href=\"https://developers.facebook.com/"
+"apps\">here</a>."
+msgstr ""
+"Introduzca el Facebook Application ID de la página de fans que se asocia a "
+"este sitio web. Puede crear una <a href=\"https://developers.facebook.com/"
+"apps\"> aquí </a>."
+
+#: config/admin-panel/redux-sections.php:1573
+msgid "Facebook Admin ID"
+msgstr "Facebook Admin ID"
+
+#: config/admin-panel/redux-sections.php:1574
+msgid ""
+"The id of the user that has administrative privileges to your Facebook App "
+"so you can access the <a href=\"https://www.facebook.com/insights/"
+"\">Facebook Insights</a>."
+msgstr ""
+"El ID de usuario que tenga privilegios administrativos para su aplicación de "
+"Facebook para que pueda acceder a los <a href=\"https://www.facebook.com/"
+"insights/\"> Facebook Insights </a>."
+
+#: config/admin-panel/redux-sections.php:1580
+msgid "Google+ Publisher"
+msgstr "Google+ Publisher"
+
+#: config/admin-panel/redux-sections.php:1581
+msgid ""
+"Enter your Google Plus page ID (example: https://plus.google.com/"
+"<b>105345678532237339285</b>) here if you have set up a \"Google+ Page\"."
+msgstr ""
+"Ingrese su Google Plus Página ID (ejemplo:https://plus.google.com/"
+"<b>105345678532237339285</b>) aquí si ha creado un \"página de Google+\"."
+
+#: config/admin-panel/redux-sections.php:1587
+msgid "Twitter Site Username"
+msgstr "Twitter Site Username"
+
+#: config/admin-panel/redux-sections.php:1588
+msgid ""
+"The Twitter username of the entire site. The username for the author will be "
+"taken from the author's profile"
+msgstr ""
+"El nombre de usuario de Twitter de todo el sitio. El nombre de usuario para "
+"el autor será tomadao del perfil del autor (sin @)"
+
+#: config/admin-panel/redux-sections.php:1595
+msgid "Default Social Share Image"
+msgstr "Default Social Share Image"
+
+#: config/admin-panel/redux-sections.php:1596
+msgid ""
+"If an image is uploaded, this will be used for content sharing if you don't "
+"upload a custom image with your content (at least 200px wide recommended)."
+msgstr ""
+"Si se carga una imagen, ésta se utilizará para el intercambio de contenidos "
+"si no subes una imagen personalizada con su contenido (al menos 200px "
+"recomendado)"
+
+#: config/admin-panel/redux-sections.php:1601
+msgid "Clean Static Files URL"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1602
+msgid ""
+"Do you want us to remove the version parameters from static resources so "
+"they can be cached better?"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1621
+msgid "Custom Code"
+msgstr "Custom Code"
+
+#: config/admin-panel/redux-sections.php:1622
+msgid ""
+"You can change the site style and behaviour by adding custom scripts to all "
+"pages within your site using the custom code areas below."
+msgstr ""
+"Usted puede cambiar el estilo de sitio y el comportamiento, agregando "
+"scripts personalizados para todas las páginas de su sitio usando las áreas "
+"de código personalizado de abajo."
+
+#: config/admin-panel/redux-sections.php:1627
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: config/admin-panel/redux-sections.php:1628
+msgid ""
+"Enter your custom CSS code. It will be included in the head section of the "
+"page and will overwrite the main CSS styling."
+msgstr ""
+"Ingrese su código CSS personalizado. Se incluye en la sección de cabecera de "
+"la página y se sobreponen al CSS principal."
+
+#: config/admin-panel/redux-sections.php:1638
+msgid "Apply Custom CSS"
+msgstr "Aplicar CSS personalizado"
+
+#: config/admin-panel/redux-sections.php:1639
+msgid "Select how to insert the custom CSS into your pages."
+msgstr "Seleccione la forma de insertar el CSS personalizado en sus páginas."
+
+#: config/admin-panel/redux-sections.php:1642
+msgid "Inline <em>(recommended)</em>"
+msgstr " Línea <em>(recomendado)</em>"
+
+#: config/admin-panel/redux-sections.php:1643
+msgid "Write To File (might require file permissions)"
+msgstr "Escribir en el archivo (puede requerir permisos de archivo)"
+
+#: config/admin-panel/redux-sections.php:1654
+msgid "Custom JavaScript (header)"
+msgstr "Custom JavaScript (header)"
+
+#: config/admin-panel/redux-sections.php:1655
+msgid ""
+"Enter your custom Javascript code. This code will be loaded in the head "
+"section of your pages."
+msgstr ""
+"Ingrese su código Javascript personalizado. Este código será cargado en la "
+"sección de cabecera de sus páginas."
+
+#: config/admin-panel/redux-sections.php:1662
+msgid "Custom JavaScript (footer)"
+msgstr "Custom JavaScript (pie de página)"
+
+#: config/admin-panel/redux-sections.php:1663
+msgid ""
+"This javascript code will be loaded in the footer. You can paste here your "
+"<strong>Google Analytics tracking code</strong> (or for what matters any "
+"tracking code) and we will put it on every page."
+msgstr ""
+"Este código javascript se cargará en el pie de página. Puede pegar aquí tu "
+"<strong> código Google Analytics tracking</strong> (o cualquier código de "
+"tracking) y vamos a ponerlo en todas las páginas."
+
+#: config/admin-panel/redux-sections.php:1676
+msgid "Utilities"
+msgstr "Utilidades"
+
+#: config/admin-panel/redux-sections.php:1677
+msgid ""
+"Utilities help you keep up-to-date with new versions of the theme. Also you "
+"can import the demo data from here."
+msgstr ""
+"Utilidades ayudan a mantenerse al día con las nuevas versiones del tema. "
+"También puede importar los demo data de aquí."
+
+#: config/admin-panel/redux-sections.php:1682
+msgid ""
+"Let us notify you when new versions of this theme are live on ThemeForest! "
+"Update with just one button click and forget about manual updates!</p><p> If "
+"you have any troubles with this system please refer to <a href=\"http://bit."
+"ly/backend-update\">Updating a theme</a> article."
+msgstr ""
+"Vamos a que le notifiquemos cuando las nuevas versiones de este tema son en "
+"vivo en ThemeForest! Actualizar con sólo un botón de clic. Olvídese de las "
+"actualizaciones manuales!"
+
+#: config/admin-panel/redux-sections.php:1681
+msgid ""
+"<h3>Theme One-Click Update</h3>\n"
+"\t\t\t\t<p class=\"description\">"
+msgstr ""
+"<h3>One-Click actualización del tema</h3>\n"
+"\t\t\t\t<p class=\"description\">"
+
+#: config/admin-panel/redux-sections.php:1688
+msgid "One-Click Update"
+msgstr "One-Click actualización"
+
+#: config/admin-panel/redux-sections.php:1689
+msgid ""
+"Activate this to enter the info needed for the theme's one-click update to "
+"work."
+msgstr ""
+"Active esta opción para introducir la información necesaria para un solo "
+"clic de actualización del tema."
+
+#: config/admin-panel/redux-sections.php:1695
+msgid "ThemeForest Username"
+msgstr "ThemeForest Nombre de usuario"
+
+#: config/admin-panel/redux-sections.php:1696
+msgid ""
+"Enter here your ThemeForest (or Envato) username account (i.e. pixelgrade)."
+msgstr ""
+"Indica aquí tu ThemeForest (o Envato) usuario de la cuenta (es decir "
+"pixelgrade)."
+
+#: config/admin-panel/redux-sections.php:1702
+msgid "ThemeForest Secret API Key"
+msgstr "ThemeForest Secret Key API"
+
+#: config/admin-panel/redux-sections.php:1703
+msgid ""
+"Enter here the secret api key you've created on ThemeForest. You can create "
+"a new one in the Settings > API Keys section of your profile."
+msgstr ""
+"Introduzca aquí el Secret Key API que haya creado en ThemeForest. Puede "
+"crear uno nuevo en Settings> API Keys."
+
+#: config/admin-panel/redux-sections.php:1709
+msgid "Backup Theme Before Upgrade?"
+msgstr ""
+"Quieres hacer una copia de seguridad antes de la actualización del tema?"
+
+#: config/admin-panel/redux-sections.php:1710
+msgid ""
+"Check this if you want us to automatically save your theme as a ZIP archive "
+"before an upgrade. The directory those backups get saved to is <code>wp-"
+"content/envato-backups</code>. However, if you're experiencing problems "
+"while attempting to upgrade, it's likely to be a permissions issue and you "
+"may want to manually backup your theme before upgrading. Alternatively, if "
+"you don't want to backup your theme you can disable this."
+msgstr ""
+"Seleccione esta opción si desea que los salvemos automáticamente su tema "
+"como un archivo ZIP antes de una actualización. El directorio de esas copias "
+"de seguridad se guardan en <code>wp-content/envato-backups</code>. Sin "
+"embargo, si usted está experimentando problemas al intentar actualizar, es "
+"probable que sea un problema de permisos y es posible que desee hacer copia "
+"de seguridad de forma manual para su tema antes de actualizar. "
+"Alternativamente, si usted no quiere hacer copias de seguridad para su tema "
+"puede desactivar esta opción."
+
+#: config/admin-panel/redux-sections.php:1717
+msgid ""
+"Here you can import the demo data and get on your way of setting up the site "
+"like the theme demo (images not included due to copyright)."
+msgstr ""
+"Aquí puede importar los datos de demostración y comenzar la  creación de "
+"este sitio, como en el demo del tema (imágenes no incluidos debido a los "
+"derechos de autor)."
+
+#: config/admin-panel/redux-sections.php:1716
+msgid ""
+"<h3>Import Demo Data</h3>\n"
+"\t\t\t\t<p class=\"description\">"
+msgstr ""
+"<h3>Import Demo Data</h3>\n"
+"\t\t\t\t<p class=\"description\">"
+
+#: config/admin-panel/redux-sections.php:1730
+msgid "Import demo data"
+msgstr "Importa los datas demo"
+
+#: config/admin-panel/redux-sections.php:1736
+msgid ""
+"Please wait a few minutes (between 1 and 3 minutes usually, but depending on "
+"your hosting it can take longer) and <strong>don't reload the page</strong>. "
+"You will be notified as soon as the import has finished!"
+msgstr ""
+"Por favor, espera unos minutos (entre 1 y 3 minutos por lo general, pero "
+"dependiendo de su alojamiento puede llevar más tiempo) y <strong> no vuelva "
+"a cargar la página </strong>. Se le notificará tan pronto como la "
+"importación ha terminado!"
+
+#: config/admin-panel/redux-sections.php:1746
+msgid "<h3>Other</h3>"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1752
+msgid "Use Responsive Images"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1753
+msgid ""
+"Activate this if you would like to use the latest trends in responsive "
+"images (the <picture> HTML element and the PictureFill polyfill)"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1759
+msgid "Admin Panel Options"
+msgstr "Opciones de Panel de Administración"
+
+#: config/admin-panel/redux-sections.php:1760
+msgid ""
+"Here you can copy/download your current admin option settings. Keep this "
+"safe as you can use it as a backup should anything go wrong, or you can use "
+"it to restore your settings on this site (or any other site)."
+msgstr ""
+"Aquí puedes copiar / descargar la configuración de opciones de "
+"administración actuales. Mantenga este seguro, ya que se puede utilizar como "
+"una copia de seguridad si algo va mal, o usted puede utilizarlo para "
+"restaurar la configuración en este sitio (o cualquier otro sitio)."
+
+#: config/admin-panel/redux-sections.php:1781
+msgid "WooCommerce"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1782
+msgid "WooCommerce options!"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1787
+msgid "Enable WooCommerce Support"
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1788
+msgid "Turn this off to avoid loading the WooCommerce assets (CSS and JS)."
+msgstr ""
+
+#: config/admin-panel/redux-sections.php:1837
+msgid "Help and Support"
+msgstr "Ayuda y soporte técnico"
+
+#: config/admin-panel/redux-sections.php:1838
+msgid ""
+"If you had anything less than a great experience with this theme please "
+"contact us now. You can also find answers in our community site, or official "
+"articles and tutorials in our knowledge base."
+msgstr ""
+"Si tuviste una mala experiencia con este tema, por favor póngase en contacto "
+"con nosotros ahora. También puede encontrar respuestas en nuestro sitio de "
+"la comunidad, o en los artículos oficiales y tutoriales en nuestra base de "
+"conocimiento."
+
+#: config/admin-panel/redux-tabs.php:29
+msgid "<strong>Theme URL:</strong> "
+msgstr "<strong>Tema URL:</strong> "
+
+#: config/admin-panel/redux-tabs.php:34
+msgid "<strong>Author:</strong> "
+msgstr "<strong>Autor:</strong> "
+
+#: config/admin-panel/redux-tabs.php:38
+msgid "<strong>Version:</strong> "
+msgstr "<strong>Versión:</strong> "
+
+#: config/admin-panel/redux-tabs.php:46
+msgid "<strong>Tags:</strong> "
+msgstr "<strong>Etiquetas:</strong> "
+
+#: config/admin-panel/redux-tabs.php:56
+msgid "Theme Information"
+msgstr "Información del tema"
+
+#: config/customify.php:14
+msgid ""
+"Using the color pickers you can change the colors of the most important "
+"elements. If you want to override the color of some elements you can always "
+"use the CSS Editor panel."
+msgstr ""
+
+#: config/customify.php:63
+msgid "Headings Color"
+msgstr ""
+
+#: config/customify.php:80
+msgid "Layout Elements"
+msgstr ""
+
+#: config/customify.php:144
+msgid "Menu Background"
+msgstr ""
+
+#: config/customify.php:156 config/customify.php:335
+msgid "Header Background"
+msgstr ""
+
+#: config/customify.php:183
+msgid "Container Width"
+msgstr ""
+
+#: config/customify.php:203
+msgid "Sections Vertical Margins"
+msgstr ""
+
+#: config/customify.php:230
+msgid "Post Width"
+msgstr ""
+
+#: config/customify.php:322
+msgid "Content Background"
+msgstr ""
+
+#: config/customify.php:343 inc/classes/mies.php:211
+msgid "Archives"
+msgstr "Archivos"
+
+#: config/customify.php:475 config/customify.php:488
+msgid "Footer Background"
+msgstr ""
+
+#: config/customify.php:505 config/customify.php:509
+msgid "Headings"
+msgstr ""
+
+#: config/customify.php:527
+#, fuzzy
+msgid "Navigation"
+msgstr "Fuente de menú"
+
+#: config/customify.php:532
+msgid "Font for the navigation menu."
+msgstr "Fuente para el menú de navegación."
+
+#: config/customify.php:579
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:399
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:400
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:401
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:388
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:389
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:390
+msgid "Text Transform"
+msgstr ""
+
+#: config/customify.php:596
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:442
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:443
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:444
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:431
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:432
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:433
+msgid "Text Decoration"
+msgstr "Información del tema"
+
+#: config/customify.php:614 config/customify.php:618
+msgid "Body"
+msgstr ""
+
+#: config/wpgrade-config.php:165
+msgid "Previous (Left arrow key)"
+msgstr "Anterior (tecla de flecha izquierda)"
+
+#: config/wpgrade-config.php:166
+msgid "Next (Right arrow key)"
+msgstr "Siguiente (tecla de flecha a la derecha)"
+
+#: config/wpgrade-config.php:167
+msgid "of"
+msgstr "de"
+
+#: config/wpgrade-config.php:208
+msgid "Prev"
+msgstr "Previo"
+
+#: config/wpgrade-config.php:209
+msgid "Next"
+msgstr "Próximo"
+
+#: header.php:81 header.php:89 wpgrade-core/vendor/redux3/inc/tracking.php:167
+msgid "Close"
+msgstr ""
+
+#: header.php:114
+msgid "Primary Navigation"
+msgstr "Navegación Primaria"
+
+#: inc/classes/mies.php:186
+msgid "News"
+msgstr ""
+
+#: inc/classes/mies.php:191
+msgid "Search Results for: "
+msgstr "Resultados de Búsqueda para: "
+
+#: inc/classes/mies.php:196
+msgid "Tag"
+msgstr "Etiquetados:"
+
+#: inc/classes/mies.php:199 templates/portfolio/filter-box.php:34
+msgid "Category"
+msgstr "Categorías"
+
+#: inc/classes/mies.php:202
+msgid "Daily Archives: "
+msgstr "Archivo diario "
+
+#: inc/classes/mies.php:205
+msgid "Monthly Archives: "
+msgstr "Archivos mensuales "
+
+#: inc/classes/mies.php:206
+msgid "F Y"
+msgstr "F Y"
+
+#: inc/classes/mies.php:208
+msgid "Yearly Archives: "
+msgstr "Archivo anual: "
+
+#: inc/classes/mies.php:209
+msgid "Y"
+msgstr "Y"
+
+#: inc/classes/mies.php:287
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: inc/functions/callbacks/woocommerce.php:44
+#: woocommerce/single-product/sale-flash.php:15
+msgid "Sale"
+msgstr ""
+
+#: inc/functions/callbacks/woocommerce.php:86
+msgid "Shop"
+msgstr ""
+
+#: inc/functions/menus.php:67
+msgid "Please select a menu in this location"
+msgstr "Por favor seleccione un menú en esta ubicación"
+
+#: inc/functions/password-protection.php:11
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+"Esta publicación está protegida. Para verla por favor ingrese su contraseña "
+"abajo"
+
+#: inc/functions/password-protection.php:14
+#: templates/password-request-form.php:34
+#: wpgrade-core/vendor/redux3/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "Contraseña"
+
+#: inc/functions/password-protection.php:43
+msgid "Sorry, your password did not match"
+msgstr "Lo sentimos, tu contraseña no coincide"
+
+#: inc/functions/template-tags.php:288
+#, php-format
+msgid "View all projects in %s"
+msgstr ""
+
+#: inc/functions/theme-features.php:284
+msgid "Missing Attachment"
+msgstr ""
+
+#: inc/functions/theme-features.php:377
+msgid "Separator"
+msgstr ""
+
+#: inc/functions/theme-features.php:378
+msgid "Two Columns"
+msgstr ""
+
+#: inc/functions/theme-features.php:379
+msgid "Intro Text"
+msgstr ""
+
+#: inc/functions/theme-features.php:380
+msgid "Smaller Text"
+msgstr ""
+
+#: inc/functions/theme-features.php:381
+msgid "Huge Title"
+msgstr ""
+
+#: inc/functions/theme-features.php:433
+msgid "Custom Video URL"
+msgstr ""
+
+#: inc/functions/theme-features.php:436
+msgid ""
+"<p class='desc'>Attach a video to this image <span class='small'>(YouTube or "
+"Vimeo)</span>.</p>"
+msgstr ""
+
+#: inc/functions/theme-features.php:451
+msgid "Video Autoplay"
+msgstr ""
+
+#: inc/functions/theme-features.php:453
+msgid "Enable Video Autoplay?"
+msgstr "Deslizador de reproducción automática"
+
+#: inc/functions/theme-features.php:459
+msgid "Custom Image URL"
+msgstr ""
+
+#: inc/functions/theme-features.php:462
+msgid "<p class='desc'>Link this image to a custom url.</p>"
+msgstr ""
+
+#: inc/functions/theme-features.php:597
+msgid "Make this gallery a slideshow"
+msgstr ""
+
+#: inc/functions/theme-features.php:642
+msgid "Archive Image"
+msgstr ""
+
+#: inc/functions/theme-features.php:642
+msgid ""
+"In case you define an image here we will use it as the project image on "
+"portfolio archive templates. <p>If you leave it empty we will use the first "
+"image in the Hero Area above.</p>"
+msgstr ""
+
+#: inc/functions/theme-features.php:656
+msgid "Set featured image"
+msgstr ""
+
+#: inc/functions/theme-features.php:656
+msgid "Set archive image (optional)"
+msgstr ""
+
+#: inc/functions/theme-features.php:681
+msgid "Portfolio Thumbnail"
+msgstr ""
+
+#: inc/functions/theme-features.php:723
+msgid "Max Width"
+msgstr ""
+
+#: inc/functions/theme-features.php:725
+msgid "Max Height"
+msgstr ""
+
+#: inc/functions/theme-features.php:728
+msgid ""
+"Crop thumbnail to exact dimensions (normally thumbnails are proportional)"
+msgstr ""
+
+#: inc/functions/theme-features.php:728
+msgid ""
+"After you change these settings you will need to <a href=\"http://bit."
+"ly/1wfbO1f\" target=\"_blank\">regenerate the thumbnails</a> to apply them "
+"to existing media files."
+msgstr ""
+
+#: inc/functions/unsorted.php:214
+#, php-format
+msgid "on %s at %s"
+msgstr ""
+
+#: inc/functions/unsorted.php:218 inc/functions/unsorted.php:478
+msgid "Edit"
+msgstr "Editar"
+
+#: inc/functions/unsorted.php:227
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de revisión."
+
+#: inc/functions/unsorted.php:282 inc/functions/unsorted.php:296
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/functions/unsorted.php:400
+msgid "Edit Parent"
+msgstr ""
+
+#: inc/functions/unsorted.php:431
+msgid "Edit Prev Child"
+msgstr ""
+
+#: inc/functions/unsorted.php:443
+msgid "Edit Next Child"
+msgstr ""
+
+#: inc/functions/unsorted.php:467
+msgid "Edit Children"
+msgstr ""
+
+#: inc/functions/widgets-areas.php:10
+msgid "Footer Area"
+msgstr "Border Area"
+
+#: inc/functions/widgets-areas.php:11
+msgid "Widgets that appear in footer area."
+msgstr ""
+
+#: inc/functions/widgets-areas.php:20
+msgid "Single Post Sidebar"
+msgstr ""
+
+#: inc/functions/widgets-areas.php:21
+msgid "Widgets that appear in blog single post sidebar."
+msgstr ""
+
+#: inc/functions/widgets-areas.php:30
+msgid "Overlay – Before Menu"
+msgstr ""
+
+#: inc/functions/widgets-areas.php:31
+msgid "Widgets shown above the menu in the main menu overlay."
+msgstr ""
+
+#: inc/functions/widgets-areas.php:40
+msgid "Overlay – After Menu"
+msgstr ""
+
+#: inc/functions/widgets-areas.php:41
+msgid "Widgets shown bellow the menu in the main menu overlay."
+msgstr ""
+
+#: inc/import/wordpress-importer/parsers.php:44
+#: inc/import/wordpress-importer/parsers.php:75
+#: inc/import/wordpress-importer/parsers.php:83
+msgid "There was an error when reading this WXR file"
+msgstr "Se produjo un error al leer el archivo WXR"
+
+#: inc/import/wordpress-importer/parsers.php:45
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"Los detalles se muestran arriba. El importador lo intentará de nuevo, ahora "
+"con un analizador distinto..."
+
+#: inc/import/wordpress-importer/parsers.php:88
+#: inc/import/wordpress-importer/parsers.php:94
+#: inc/import/wordpress-importer/parsers.php:328
+#: inc/import/wordpress-importer/parsers.php:544
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+"Esto no parece ser un fichero WXR, falta o es inválido el número de versión "
+"WXR"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:136
+#: inc/import/wordpress-importer/wordpress-importer.php:145
+#: inc/import/wordpress-importer/wordpress-importer.php:195
+#: inc/import/wordpress-importer/wordpress-importer.php:200
+#: inc/import/wordpress-importer/wordpress-importer.php:210
+msgid "Sorry, there has been an error."
+msgstr "Lo sentimos, se ha producido un error."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:137
+msgid "The file does not exist, please try again."
+msgstr "El archivo no existe, por favor inténtelo de nuevo."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:180
+msgid "All done."
+msgstr "¡Todo Listo!"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:180
+msgid "Have fun!"
+msgstr "Diviértete!"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:181
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+"Recuérdate de actualizar las contraseñas y los roles de los usuarios "
+"importados."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:201
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+"El archivo de exportación no se pudo encontrar en <code>%s </ code>. Es "
+"probable que sea debido a un problema de permisos."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:219
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+"Este archivo WXR (version %s) puede no estar soportado por esta versión del "
+"importador. Por favor considere hacer una actualización."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:243
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+"Se ha fallado al importar al autor %s. Sus entradas serán atribuidas al "
+"usuario actual."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:270
+msgid "Assign Authors"
+msgstr "Asigna Autores"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:271
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+"Para editar y guardar el contenido importado más fácilmente, quizás desee "
+"reasignar el autor del item a un usuario existente de esta página. Por "
+"ejemplo, quizás desee importar todas las entradas como entradas de "
+"<code>admin</code>s."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:273
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user's role will be set as %s. Manually changing the "
+"new user's details will be necessary."
+msgstr ""
+"Si un usuario se crea con WordPress, una nueva contraseña será generada "
+"aleatoriamente y el papel del nuevo usuario se configurará como %s. Será "
+"necesario cambiar manualmente los datos del nuevo usuario."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:283
+msgid "Import Attachments"
+msgstr "Importación de los archivos adjuntos"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:286
+msgid "Download and import file attachments"
+msgstr "Descarga e importación de archivos adjuntos"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:305
+msgid "Import author:"
+msgstr "Importar autor:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:319
+msgid "or create new user with login name:"
+msgstr "o crear nuevo usuario con el nombre de usuario:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:322
+msgid "as a new user:"
+msgstr "como un nuevo usuario:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:330
+msgid "assign posts to an existing user:"
+msgstr "asignar publicaciones a un usuario existente:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:332
+msgid "or assign posts to an existing user:"
+msgstr "o asignar publicaciones a un usuario existente:"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:336
+msgid "- Select -"
+msgstr "- seleccione -"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:391
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+"Se ha fallado al crear nuevo usuario para %s. Sus publicaciones serán "
+"atribuidas al usuario actual."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:448
+#, php-format
+msgid "Failed to import category %s"
+msgstr "Error al importar la categoría %s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:493
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr "Se ha fallado al importar etiqueta de su publicación %s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:549
+#: inc/import/wordpress-importer/wordpress-importer.php:704
+#: inc/import/wordpress-importer/wpgrade-import-class.php:260
+#, php-format
+msgid "Failed to import %s %s"
+msgstr "Se ha fallado al importar %s %s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:575
+#: inc/import/wordpress-importer/wpgrade-import-class.php:116
+#, php-format
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr "Se ha fallado al importar \"%s\": Tipo de entrada inválido %s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:598
+#, php-format
+msgid "%s \"%s\" already exists."
+msgstr "%s \"%s\" ya existe."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:668
+#: inc/import/wordpress-importer/wpgrade-import-class.php:224
+#, php-format
+msgid "Failed to import %s \"%s\""
+msgstr "Se ha fallado al importar %s \"%s\""
+
+#: inc/import/wordpress-importer/wordpress-importer.php:844
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+"Elemento del menu desestimado debido a la falta de identificador del menú"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:852
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+"Elemento del menu desestimado debido a la falta de identificador del menú: %s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:927
+msgid "Fetching attachments is not enabled"
+msgstr "La obtención de archivos adjuntos no está habilitado"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:943
+msgid "Invalid file type"
+msgstr "Tipo de archivo invalido"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:991
+msgid "Remote server did not respond"
+msgstr "El server no respondió"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:998
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "El server devolvió un error %1$d %2$s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1006
+msgid "Remote file is incorrect size"
+msgstr "Tamaño de archivo incorrecto "
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1012
+msgid "Zero size file downloaded"
+msgstr "Tamaño cero del archivo descargado"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1019
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr "El archivo es demasiado grande, el límite es %s"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1127
+msgid "Import WordPress"
+msgstr "Importación WordPress"
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1134
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+"Una nueva versión de este importador se encuentra disponible. Por favor, "
+"actualice a la versión %s para asegurar la compatibilidad con los archivos "
+"de exportación más nuevos."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1149
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we'll import the "
+"posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+"Hola! Cargue su archivo WordPress eXtended RSS (WXR) y nosotros vamos a "
+"importar las publicaciones, páginas, comentarios, campos personalizados, "
+"categorías, y etiquetas en este sitio."
+
+#: inc/import/wordpress-importer/wordpress-importer.php:1150
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+"Elija un archivo WXR para cargar, después haga clic en Upload file and "
+"import."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:333
+#: inc/required-plugins/required-plugins.php:57
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:334
+#: inc/required-plugins/required-plugins.php:58
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:335
+#: inc/required-plugins/required-plugins.php:59
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:336
+#: inc/required-plugins/required-plugins.php:61
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API de los plugins."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:338
+#: inc/required-plugins/required-plugins.php:62
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere el siguiente plugin: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:343
+#: inc/required-plugins/required-plugins.php:64
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda el siguiente plugin: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:353
+#: inc/required-plugins/required-plugins.php:74
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Los siguientes plugins deben ser actualizados a su última versión para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes plugins deben ser actualizados a su última versión para "
+"asegurar la máxima compatibilidad con este tema: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:363
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:368
+#: inc/required-plugins/required-plugins.php:68
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plug-in requerido está inactivo: %1$s."
+msgstr[1] "El siguiente plug-in requerido está inactivo: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:373
+#: inc/required-plugins/required-plugins.php:70
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está inactivo: %1$s."
+msgstr[1] "El siguiente plugin recomendado está inactivo: %1$s."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:378
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugin."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %1$s "
+"plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:383
+#: inc/required-plugins/required-plugins.php:78
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comienza la instalación del plug-in"
+msgstr[1] "Comienza la instalación del plug-in"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:388
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comienza la actualización de plug-in"
+msgstr[1] "Comienza la actualización de plug-in"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:393
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:397
+#: inc/required-plugins/required-plugins.php:80
+msgid "Return to Required Plugins Installer"
+msgstr "Volver a Required Plugins Installer"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:399
+#: inc/required-plugins/class-tgm-plugin-activation.php:3029
+#: inc/required-plugins/required-plugins.php:81
+msgid "Plugin activated successfully."
+msgstr "Plugin activado con éxito."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:400
+#: inc/required-plugins/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El plugin siguiente se activó con éxito:"
+msgstr[1] "El plugin siguiente se activó con éxito:"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados con éxito. %1$s"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Ignorar este aviso"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Requerido"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "No se ha instalado"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Instalado pero no activado"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2215
+#: wpgrade-core/vendor/redux3/inc/fields/link_color/field_link_color.php:99
+msgid "Active"
+msgstr "Activo"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2280
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Status"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Activación del Plugin ha fallado."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Se produjo un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s falló."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación se está iniciando. Este proceso puede "
+"tardar un poco, así que por favor sea paciente."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado con éxito."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones se han completado."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalación y activación Plugin %1$s (%2$d/%3$d)"
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está iniciando. Este proceso puede tardar un poco, "
+"así que por favor sea paciente."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones se han completado."
+
+#: inc/required-plugins/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando Plugin %1$s (%2$d/%3$d)"
+
+#: inc/required-plugins/required-plugins.php:66
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para instalar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin instalado."
+msgstr[1] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para instalar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin instalado."
+
+#: inc/required-plugins/required-plugins.php:72
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para activar el "
+"plugin %s Póngase en contacto con el administrador de este sitio en busca de "
+"ayuda en conseguir el plugin activado."
+msgstr[1] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para activar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin activado."
+
+#: inc/required-plugins/required-plugins.php:76
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para actualizar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin actualizado."
+msgstr[1] ""
+"Lo sentimos, pero usted no tiene los permisos correctos para actualizar el "
+"plugin %s. Póngase en contacto con el administrador de este sitio en busca "
+"de ayuda en conseguir el plugin actualizado."
+
+#: inc/required-plugins/required-plugins.php:79
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Activar plugin instalado"
+msgstr[1] "Activar plugin instalado"
+
+#: inc/required-plugins/required-plugins.php:82
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins instalados y activados con éxito. %s"
+
+#: no-results.php:11
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: no-results.php:15
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero no hay nada emparejado a los términos de búsqueda. Por "
+"favor, inténtelo de nuevo con diferentes palabras."
+
+#: no-results.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no podemos encontrar lo que estás buscando. Puede que la búsqueda "
+"le pueda ayudar."
+
+#: page.php:39 single.php:46 templates/subpages.php:52
+msgid "Pages:"
+msgstr ""
+
+#: page.php:45 single.php:52 templates/subpages.php:58
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: page.php:46 single.php:53 templates/subpages.php:59
+msgid "&raquo;"
+msgstr "&laquo;"
+
+#: searchform.php:10
+msgid "Search..."
+msgstr "Buscar..."
+
+#: searchform.php:11
+msgid "Search"
+msgstr ""
+
+#: templates/core/addthis-social-popup.php:23
+msgid "Share"
+msgstr ""
+
+#: templates/page/portfolio-archive-content.php:55
+msgid "Load More"
+msgstr ""
+
+#: templates/page/portfolio-archive-content.php:56
+msgid "Loading"
+msgstr ""
+
+#: templates/password-request-form.php:20
+msgid "This is a protected area."
+msgstr "Se trata de un área protegida."
+
+#: templates/password-request-form.php:24
+msgid "Please enter your password again."
+msgstr "Por favor, introduzca su contraseña de nuevo."
+
+#: templates/password-request-form.php:26
+msgid "Please enter your password to continue."
+msgstr "Por favor, introduzca su contraseña para continuar."
+
+#: templates/password-request-form.php:37
+msgid "Authenticate"
+msgstr "Autenticar"
+
+#: templates/portfolio/filter-box.php:25
+msgid "Filter by"
+msgstr ""
+
+#: templates/portfolio/filter-box.php:71 templates/portfolio/filter-box.php:87
+#: wpgrade-core/vendor/redux3/inc/fields/border/field_border.php:114
+#: wpgrade-core/vendor/redux3/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: templates/post/loop-content/header-masonry.php:26
+#: templates/post/single-content/header.php:15
+msgid ", "
+msgstr ""
+
+#: templates/post/loop/categories.php:16
+#: templates/post/single-content/footer.php:19
+#, php-format
+msgid "View all posts in %s"
+msgstr "Ver todas las publicaciones en %s"
+
+#: templates/post/single-content/footer.php:15
+msgid "Posted in "
+msgstr "Publicado en "
+
+#: templates/post/single-content/footer.php:25
+msgid " and tagged with "
+msgstr ""
+
+#: templates/post/single-content/footer.php:29
+#, php-format
+msgid "View all posts tagged %s"
+msgstr "Ver todos los posts etiquetados %s"
+
+#: woocommerce/cart/cart.php:26
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:27
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:67
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:103
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr "Aplicar CSS personalizado"
+
+#: woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:40
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:19
+msgid "Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:29
+msgid "You have "
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:29
+msgid " items in cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:33
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:76
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:81
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:82
+msgid "Checkout"
+msgstr "Caja"
+
+#: woocommerce/global/breadcrumb.php:72
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:100 woocommerce/global/breadcrumb.php:202
+msgid "Search results for &ldquo;"
+msgstr "Resultados de Búsqueda para: "
+
+#: woocommerce/global/breadcrumb.php:156
+msgid "Error 404"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:206
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: woocommerce/global/breadcrumb.php:211
+msgid "Author:"
+msgstr "Asigna Autores"
+
+#: woocommerce/global/breadcrumb.php:216
+msgid "Page"
+msgstr "Páginas"
+
+#: woocommerce/global/quantity-input.php:12
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:26
+msgid "All Products"
+msgstr "Todos los Proyectos"
+
+#: woocommerce/single-product-reviews.php:24
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:26
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:47
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Add a review"
+msgstr "Añadir nuevo"
+
+#: woocommerce/single-product-reviews.php:60
+msgid "Be the first to review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:77
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:79
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:81
+msgid "Not that bad"
+msgstr "No se actualiza"
+
+#: woocommerce/single-product-reviews.php:82
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:97
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:27
+msgid "Category: "
+msgid_plural "Categories: "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:29
+msgid "Tagged with "
+msgid_plural "Tagged with "
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:27
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:28
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:30
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:31
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/related.php:36
+msgid "Related Products"
+msgstr "Proyectos Relacionados"
+
+#: woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr "Información del tema"
+
+#: woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:41
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:116
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:124
+#: wpgrade-core/vendor/redux3/inc/fields/color/field_color.php:72
+#: wpgrade-core/vendor/redux3/inc/fields/color_gradient/field_color_gradient.php:79
+#: wpgrade-core/vendor/redux3/inc/fields/color_gradient/field_color_gradient.php:91
+#: wpgrade-core/vendor/redux3/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:132
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:148
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:164
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:179
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:194
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "Importación de los archivos adjuntos"
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:214
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:270
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:277
+#: wpgrade-core/vendor/redux3/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:307
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:314
+#: wpgrade-core/vendor/redux3/inc/fields/media/field_media.php:155
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:126
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_background/customizer_background/field_customizer_background.php:314
+#: wpgrade-core/vendor/redux3/inc/fields/background/field_background.php:321
+#: wpgrade-core/vendor/redux3/inc/fields/media/field_media.php:162
+#: wpgrade-core/vendor/redux3/inc/fields/multi_text/field_multi_text.php:70
+#: wpgrade-core/vendor/redux3/inc/fields/multi_text/field_multi_text.php:74
+#: wpgrade-core/vendor/redux3/inc/fields/multi_text/field_multi_text.php:77
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:133
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:267
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:268
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:294
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:295
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:283
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:309
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:316
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:298
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:310
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:356
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:345
+msgid "Font subsets"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:358
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:347
+msgid "Font Subsets"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:359
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:348
+msgid "Subsets"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:359
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:348
+msgid "Font script"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:376
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:377
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:378
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:365
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:366
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:367
+msgid "Text Align"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:422
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:423
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:424
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:411
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:412
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:413
+msgid "Font Variant"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:467
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:456
+msgid "Size"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:484
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:485
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:473
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:474
+msgid "Word Spacing"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:493
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:494
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:482
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:483
+msgid "Letter Spacing"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:512
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:501
+msgid "Font Color"
+msgstr "Color principal"
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:514
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:503
+msgid "Font color"
+msgstr "Color principal"
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:854
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:863
+msgid "Standard Fonts"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/extensions/customizer_typography/customizer_typography/field_customizer_typography.php:961
+#: wpgrade-core/vendor/redux3/inc/fields/typography/field_typography.php:970
+msgid "Google Webfonts"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/redux-extend.php:42
+#: wpgrade-core/vendor/redux3/framework.php:3222
+#: wpgrade-core/vendor/redux3/framework.php:3530
+msgid "Reset Section"
+msgstr ""
+
+#: wpgrade-core/callbacks/redux-extend/redux-extend.php:44
+#: wpgrade-core/vendor/redux3/framework.php:3224
+#: wpgrade-core/vendor/redux3/framework.php:3532
+msgid "Reset All"
+msgstr ""
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:78
+msgid "If you want, you can download the automatic theme backup."
+msgstr "Si desea, puede descargar la copia de seguridad automática de tema."
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:78
+msgid "Download Backup"
+msgstr "Descargar copia de seguridad"
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:81
+msgid "Upgrade Process Failed"
+msgstr "Proceso de actualización falló"
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:81
+msgid "The process has encountered the following errors:"
+msgstr "El proceso se ha encontrado con los siguientes errores:"
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:91
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:120
+msgid ""
+"Upgrade handler failed to initialize self-diagnostics. (please contact "
+"support)"
+msgstr ""
+"Manejador de actualización no se pudo inicializar el autodiagnóstico. (Por "
+"favor, póngase en contacto con soporte)"
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:110
+msgid "Upgrade Backup Process Failed"
+msgstr "Proceso de copia de actualización con errores"
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:110
+msgid "The backup process has encountered the following errors:"
+msgstr "El proceso de copia de seguridad ha detectado los siguientes errores:"
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:126
+msgid ""
+"You may bypass the backup system by turning off automatic backups in your <a "
+"href=\":theme_options_url\">utilities section of theme options</a>."
+msgstr ""
+"Usted puede pasar por alto el sistema de copia de seguridad al apagar las "
+"copias de seguridad automáticas en su <a href=\":theme_options_url\"> "
+"sección de utilidades del tema</a>."
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:126
+msgid ""
+"Should you choose to disable automatic backups you are <b>strongly "
+"encouraged to perform a manual backup</b>."
+msgstr ""
+"Si decide desactivar la copia de seguridad automática, es <b>muy "
+"recomendable que realice una copia de seguridad manual</b>."
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:126
+msgid ""
+"Skipping the backup process entirely will result, upon a failed upgrade "
+"attempt, in the loss of any modifications you have made to the theme."
+msgstr ""
+"Omitir el proceso de copia de seguridad, se traducirá en un error de intento "
+"de actualización, perdiendo todas las modificaciones que ha realizado en el "
+"tema."
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:126
+msgid "Tip"
+msgstr "Consejo"
+
+#: wpgrade-core/callbacks/upgrade-notifier/callbacks.php:126
+msgid ""
+"Modifying a theme via a child theme is the best way to easily deal with "
+"theme upgrade issues."
+msgstr ""
+"Modificación de un tema a través de un tema-niño es la mejor manera de "
+"lidiar fácilmente con problemas de actualización del tema."
+
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:80
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:167
+msgid ""
+"The theme <b>:theme_name</b> is not installed.<br><i>If you are certain the "
+"theme it is installed, please contact support.</i>"
+msgstr ""
+"El tema <b>:theme_name</b>  no está instalado.<br><i>Si está seguro de que "
+"el tema está instalado, por favor póngase en contacto con soporte.</i>"
+
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:96
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:186
+msgid "Failed to retrieve theme list via Envato API."
+msgstr "No se pudo recuperar lista de temas a través de API Envato."
+
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:106
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:198
+msgid "There is no update available for the theme <b>:theme_name</b>"
+msgstr ""
+"No hay ninguna actualización disponible para el tema <b>:theme_name</b>"
+
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:114
+msgid "Failed to find the theme <b>:theme_name</b>"
+msgstr "No se pudo encontrar el tema <b>:theme_name</b>"
+
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:179
+msgid "TeamForest/Envato API error."
+msgstr "TeamForest/Envato API error."
+
+#: wpgrade-core/classes/WPGradeAjaxUpgrader.php:207
+msgid ""
+"Failed to find <b>:theme_name</b> in your list of purchased themes. (please "
+"contact support)"
+msgstr ""
+"No se pudo encontrar <b>:theme_name</b> en la lista de temas comprados. (Por "
+"favor, póngase en contacto con soporte)"
+
+#: wpgrade-core/classes/WPGradePaginationFormatter.php:123
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: wpgrade-core/classes/WPGradePaginationFormatter.php:129
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: wpgrade-core/resources/views/read-more-content.php:11
+#: wpgrade-core/resources/views/read-more.php:9
+msgid "Read more about"
+msgstr "Más información sobre"
+
+#: wpgrade-core/resources/views/read-more-content.php:13
+#: wpgrade-core/resources/views/read-more.php:11
+msgid "Read more"
+msgstr "Leer más"
+
+#: wpgrade-core/vendor/envato-wtl/class-envato-backup.php:357
+msgid "The backup file was not created"
+msgstr "El archivo de copia de seguridad no se ha creado"
+
+#: wpgrade-core/vendor/envato-wtl/class-envato-backup.php:430
+msgid "The following files are unreadable and could not be backed up: "
+msgstr ""
+"Los siguientes archivos no se pueden leer y no puede hacer copia de "
+"seguridad: "
+
+#: wpgrade-core/vendor/envato-wtl/class-envato-protected-api.php:58
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Por favor, introduzca su  Envato Marketplace nombre de usuario."
+
+#: wpgrade-core/vendor/envato-wtl/class-envato-protected-api.php:62
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Por favor, introduzca su clave de API Envato Marketplace."
+
+#: wpgrade-core/vendor/envato-wtl/class-envato-protected-api.php:87
+msgid "The API \"set\" is a required parameter."
+msgstr "La API \"set\" es un parámetro obligatorio."
+
+#: wpgrade-core/vendor/envato-wtl/class-envato-protected-api.php:158
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr "El Envato Marketplace \"item ID\" es un parámetro obligatorio."
+
+#: wpgrade-core/vendor/redux3/framework.php:176
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:176
+msgid "Redux Framework"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:1231
+#: wpgrade-core/vendor/redux3/framework.php:1232
+#: wpgrade-core/vendor/redux3/framework.php:3390
+#: wpgrade-core/vendor/redux3/framework.php:3469
+msgid "System Info"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:1778
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:1786
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:1794
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:1802
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:1809
+msgid "Please Wait"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:1955
+msgid "Hints"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:2080
+msgid "Default"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3137
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3184
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3216
+msgid "Expand"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3218
+#: wpgrade-core/vendor/redux3/framework.php:3526
+msgid "Save Changes"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3229
+#: wpgrade-core/vendor/redux3/framework.php:3537
+msgid "Working..."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3249
+msgid "Settings Imported!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3264
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3278
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3292
+msgid "Settings Saved!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3310
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3318
+msgid "error(s) were found!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/framework.php:3326
+msgid "warning(s) were found!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/class.redux_functions.php:252
+msgid "Dismiss"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/debug.php:41
+#: wpgrade-core/vendor/redux3/inc/debug.php:69
+#: wpgrade-core/vendor/redux3/inc/debug.php:76
+#: wpgrade-core/vendor/redux3/inc/debug.php:77
+msgid "Options Object"
+msgstr "Opciones"
+
+#: wpgrade-core/vendor/redux3/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/border/field_border.php:127
+#: wpgrade-core/vendor/redux3/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "Consejo"
+
+#: wpgrade-core/vendor/redux3/inc/fields/border/field_border.php:134
+#: wpgrade-core/vendor/redux3/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/border/field_border.php:141
+#: wpgrade-core/vendor/redux3/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/border/field_border.php:148
+#: wpgrade-core/vendor/redux3/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr "Área de menú"
+
+#: wpgrade-core/vendor/redux3/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr "Border Area"
+
+#: wpgrade-core/vendor/redux3/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/dimensions/field_dimensions.php:188
+#: wpgrade-core/vendor/redux3/inc/fields/dimensions/field_dimensions.php:189
+#: wpgrade-core/vendor/redux3/inc/fields/spacing/field_spacing.php:245
+#: wpgrade-core/vendor/redux3/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Editar Galeria"
+
+#: wpgrade-core/vendor/redux3/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Nueva Galeria"
+
+#: wpgrade-core/vendor/redux3/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr "Añadir nuevo"
+
+#: wpgrade-core/vendor/redux3/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr "AddThis Username"
+
+#: wpgrade-core/vendor/redux3/inc/fields/select/field_select.php:82
+#: wpgrade-core/vendor/redux3/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr "Seleccione un proyecto"
+
+#: wpgrade-core/vendor/redux3/inc/fields/select/field_select.php:126
+#: wpgrade-core/vendor/redux3/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "Añadir nuevo"
+
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:153
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:167
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:81
+msgid "Import Options"
+msgstr "Opciones del Tema - Theme Options"
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:82
+msgid "Import from file"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:82
+msgid "Import from URL"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:94
+msgid "Import"
+msgstr "Importar autor:"
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:97
+msgid "Export Options"
+msgstr "Opciones"
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Aquí puedes copiar / descargar la configuración de opciones de "
+"administración actuales. Mantenga este seguro, ya que se puede utilizar como "
+"una copia de seguridad si algo va mal, o usted puede utilizarlo para "
+"restaurar la configuración en este sitio (o cualquier otro sitio)."
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:104
+msgid "Copy"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:104
+msgid "Download"
+msgstr "Descargar copia de seguridad"
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:104
+msgid "Copy Link"
+msgstr "Link de cliente"
+
+#: wpgrade-core/vendor/redux3/inc/import_export.php:140
+#: wpgrade-core/vendor/redux3/inc/import_export.php:149
+#: wpgrade-core/vendor/redux3/inc/import_export.php:150
+msgid "Import / Export"
+msgstr "Importar autor:"
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr "GA Social Tracking"
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr "GA Social Tracking"
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:153
+msgid "Getting Started"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:157
+msgid "Newsletter"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:158
+msgid "Email address"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/tracking.php:158
+msgid "Subscribe"
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/color/validation_color.php:15
+#: wpgrade-core/vendor/redux3/inc/validation/color_rgba/validation_color_rgba.php:14
+#: wpgrade-core/vendor/redux3/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/email/validation_email.php:16
+#: wpgrade-core/vendor/redux3/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/numeric/validation_numeric.php:16
+#: wpgrade-core/vendor/redux3/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: wpgrade-core/vendor/redux3/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: wpgrade-core/wpgrade.php:1344
+msgid "Invalid sidebar ID"
+msgstr "Tipo de archivo invalido"
+
+#: assets/js/main.js:4145 assets/js/vendor/TweenMax.min.js:799
+msgid "marginTop,marginRight,marginBottom,marginLeft"
+msgstr ""
+
+#: assets/js/main.js:4147 assets/js/vendor/TweenMax.min.js:799
+msgid "paddingTop,paddingRight,paddingBottom,paddingLeft"
+msgstr ""
+
+#: assets/js/main.js:4173 assets/js/vendor/TweenMax.min.js:820
+msgid "borderTopWidth,borderRightWidth,borderBottomWidth,borderLeftWidth"
+msgstr ""
+
+#~ msgid "Something went wrong."
+#~ msgstr "Parece que se ha producido un error."
+
+#~ msgid "Private Repository"
+#~ msgstr "Repositorio privado"
+
+#~ msgid "Install package not available."
+#~ msgstr "Paquete de instalación no está disponible."
+
+#~ msgid ""
+#~ "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+#~ msgstr ""
+#~ "Descargando la instalación del paquete desde <span class=\"code\">%s</"
+#~ "span>…"
+
+#~ msgid "Unpacking the package&#8230;"
+#~ msgstr "Descomprimiendo el paquete&#8230;"
+
+#~ msgid "Installing the plugin&#8230;"
+#~ msgstr "Instalando el plugin&#8230;"
+
+#~ msgid "Plugin install failed."
+#~ msgstr "La instalación del Plugin ha fallado."
+
+#~ msgid "Plugin installed successfully."
+#~ msgstr "Plugin instalado exitosamente."
+
+#~ msgid "Show Details"
+#~ msgstr "Mostrar detalles"
+
+#~ msgid "Hide Details"
+#~ msgstr "Ocultar detalles"
+
+#~ msgid "Image Scaling"
+#~ msgstr "Imagen scaling"
+
+#~ msgid "Main Logo"
+#~ msgstr "Logo principal"
+
+#, fuzzy
+#~ msgid "Main Logo Inversed"
+#~ msgstr "Logo principal"
+
+#, fuzzy
+#~ msgid "Retina Logo light"
+#~ msgstr "2x Retina Logo"
+
+#, fuzzy
+#~ msgid "Retina Logo dark"
+#~ msgstr "2x Retina Logo"
+
+#, fuzzy
+#~ msgid "Customizer"
+#~ msgstr "Custom Code"
+
+#, fuzzy
+#~ msgid "Accent Color"
+#~ msgstr "Color principal"
+
+#~ msgid ""
+#~ "Use the color picker to change the main color of the site to match your "
+#~ "brand color."
+#~ msgstr ""
+#~ "Utilice el selector de color para cambiar el color principal del sitio "
+#~ "para que coincida con el color de la marca."
+
+#, fuzzy
+#~ msgid "Text Color"
+#~ msgstr "Color principal"
+
+#, fuzzy
+#~ msgid "Cover Text"
+#~ msgstr "Cubierta Title Style"
+
+#, fuzzy
+#~ msgid "Footer Widget Area Style"
+#~ msgstr "Border Area"
+
+#~ msgid "Do you need custom web fonts?"
+#~ msgstr "¿Necesita fuentes web personalizados?"
+
+#~ msgid ""
+#~ "Tap into the massive <a href=\"http://www.google.com/fonts/\">Google "
+#~ "Fonts</a> collection (with Live preview)."
+#~ msgstr ""
+#~ "Acceda a la masiva colección de <a href=\"http://www.google.com/fonts/"
+#~ "\">Google Fuentes</a>  (con live preview)."
+
+#, fuzzy
+#~ msgid "Border Width"
+#~ msgstr "Border Area"
+
+#, fuzzy
+#~ msgid "Slideshow Arrows Style"
+#~ msgstr "Presentación de diapositivas"
+
+#~ msgid "Copyright Text"
+#~ msgstr "Copyright"
+
+#~ msgid ""
+#~ "Text that will appear in bottom left area (eg. Copyright 2014 %s | All "
+#~ "Rights Reserved)."
+#~ msgstr ""
+#~ "Texto que aparecerá en la parte izquierda inferior (por ejemplo, "
+#~ "Copyright 2014 %s | All Rights Reserved)."
+
+#, fuzzy
+#~ msgid "Share Links"
+#~ msgstr "Social Links"
+
+#, fuzzy
+#~ msgid "Show Share Links"
+#~ msgstr "Mostrar Share Buttons"
+
+#, fuzzy
+#~ msgid "Do you want to show share icon links in your articles?"
+#~ msgstr "¿Quieres mostrar los Share Buttons en sus proyectos?"
+
+#, fuzzy
+#~ msgid "Do you want to show numbers beside each comment?"
+#~ msgstr "¿Quieres mostrar los Share Buttons en sus proyectos?"
+
+#~ msgid "Social Links"
+#~ msgstr "Social Links"
+
+#~ msgid ""
+#~ "Define and reorder your social pages links.<br /><b>Note:</b> These will "
+#~ "be displayed in the \"%s Social Links\" widget so you can put them "
+#~ "anywhere on your site. Only those filled will appear.<br /><br /><strong> "
+#~ "You need to input the <strong>complete</strong> URL (ie. http://twitter."
+#~ "com/username)</strong>"
+#~ msgstr ""
+#~ "Definir y reordenar sus social links <br/><b> Nota: </b> Estos se "
+#~ "muestran en el widget \"%s Social Links\" para que pueda ponerlo en "
+#~ "cualquier lugar de tu sitio. Sólo aparecerán las rellenas. <br/><br /"
+#~ "><strong>Usted necesita ingresar el URL <strong> completo </strong> (es "
+#~ "decir http://twitter.com/username)</strong>"
+
+#~ msgid ""
+#~ "Icons provided by <strong>FontAwesome</strong> and <strong>Entypo</"
+#~ "strong>."
+#~ msgstr ""
+#~ "Iconos proporcionadas de <strong> FontAwesome </strong> y <strong> Entypo "
+#~ "</strong>."
+
+#~ msgid "Widget"
+#~ msgstr "Widget "
+
+#~ msgid "Flickr"
+#~ msgstr "Flickr"
+
+#~ msgid "Tumblr"
+#~ msgstr "Tumblr"
+
+#~ msgid "Pinterest"
+#~ msgstr "Pinterest"
+
+#~ msgid "Instagram"
+#~ msgstr "Instagram"
+
+#, fuzzy
+#~ msgid "Foursquare"
+#~ msgstr "Square"
+
+#~ msgid "Behance"
+#~ msgstr "Behance"
+
+#~ msgid "500px"
+#~ msgstr "500px"
+
+#~ msgid "DeviantART"
+#~ msgstr "DeviantART"
+
+#~ msgid "Dribbble"
+#~ msgstr "Dribbble:"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid "Vimeo"
+#~ msgstr "Vimeo"
+
+#~ msgid "LinkedIn"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Skype"
+#~ msgstr "Skype"
+
+#~ msgid "SoundCloud"
+#~ msgstr "SoundCloud"
+
+#~ msgid "Digg"
+#~ msgstr "Digg"
+
+#~ msgid "Last.FM"
+#~ msgstr "last.fm"
+
+#~ msgid "Rdio"
+#~ msgstr "Rdio"
+
+#~ msgid "Sina Weibo"
+#~ msgstr "Sina Weibo"
+
+#~ msgid "App.net"
+#~ msgstr "App.net"
+
+#~ msgid "RSS Feed"
+#~ msgstr "RSS Feed"
+
+#~ msgid "Open Social Links In a New Tab?"
+#~ msgstr "Abrir Social Links en un nuevo Tab?"
+
+#~ msgid "Do you want to open social links in a new tab?"
+#~ msgstr "¿Quieres abrir Social Links en un nuevo Tab?"
+
+#~ msgid "Display the social links defined in the theme's options"
+#~ msgstr "Ver los links sociales definidos en las opciones del tema"
+
+#~ msgid "We Are Social"
+#~ msgstr "Somos Social"
+
+#~ msgid "Video URL"
+#~ msgstr "URL de vídeo"
+
+#, fuzzy
+#~ msgid "Video  Autoplay"
+#~ msgstr "Deslizador de reproducción automática"
+
+#, fuzzy
+#~ msgid "Main Sidebar"
+#~ msgstr "Blog Sidebar"
+
+#~ msgid "There is a new update for %1$s."
+#~ msgid_plural "There are several plugins updates available %1$s."
+#~ msgstr[0] "Hay una nueva actualización para %1$s."
+#~ msgstr[1] "Hay una nueva actualización para %1$s."
+
+#~ msgid "This theme requires the following plugin to be updated: %1$s."
+#~ msgid_plural ""
+#~ "This theme requires the following plugins to be updated: %1$s."
+#~ msgstr[0] "Este tema requiere el siguiente plugin para actualizar: %1$s."
+#~ msgstr[1] "Este tema requiere el siguiente plugin para actualizar: %1$s."
+
+#~ msgid "Return to the Dashboard"
+#~ msgstr "Vuelva al Dashboard"
+
+#~ msgid "The following plugin was activated successfully: %s."
+#~ msgstr "El plugin se activó con éxito:%s"
+
+#~ msgid "External Link"
+#~ msgstr "Links Externos"
+
+#~ msgid "Not Updated"
+#~ msgstr "No se actualiza"
+
+#~ msgid ""
+#~ "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+#~ "Dashboard\">Return to the Dashboard</a>"
+#~ msgstr ""
+#~ "No hay plugins para instalar o activar. <a href=\"%1$s\" title=\"Return "
+#~ "to the Dashboard\">Volver al Panel de Control</a>"
+
+#~ msgid "%1$s installed successfully."
+#~ msgstr "%1$s instalado correctamente."
+
+#, fuzzy
+#~ msgid "Additional Updates"
+#~ msgstr "Información del tema"
+
+#, fuzzy
+#~ msgid "Download Files"
+#~ msgstr "Descargar copia de seguridad"
+
+#, fuzzy
+#~ msgid "Flexible Product Grids"
+#~ msgstr "Todos los Proyectos"
+
+#, fuzzy
+#~ msgid "Additional Display Options"
+#~ msgstr "Información del tema"
+
+#, fuzzy
+#~ msgid "View %s"
+#~ msgstr "Ver todos en %s"
+
+#, fuzzy
+#~ msgid "Author"
+#~ msgstr "Asigna Autores"
+
+#, fuzzy
+#~ msgid "<span class=\"comment-number total\">1</span> Comment"
+#~ msgid_plural "<span class=\"comment-number total\">%1$s</span>Comments"
+#~ msgstr[0] "Hay <span class=\"muted\">1</span> comentario"
+#~ msgstr[1] "Hay <span class=\"muted\">%1$s</span> comentarios"
+
+#, fuzzy
+#~ msgid "<span class=\"comment-number total\">+</span> There are no comments"
+#~ msgstr "Hay <span class=\"muted\">1</span> comentario"
+
+#, fuzzy
+#~ msgid "<span class=\"comment-number total\">+</span> Leave a Comment"
+#~ msgstr "Hay <span class=\"muted\">1</span> comentario"
+
+#, fuzzy
+#~ msgid "Content Border Style"
+#~ msgstr "Border Area"
+
+#, fuzzy
+#~ msgid "Slideshow Settings"
+#~ msgstr "Presentación de diapositivas"
+
+#~ msgid "Images"
+#~ msgstr "Imágenes"
+
+#, fuzzy
+#~ msgid ""
+#~ "<p class=\"cmb_metabox_description\"><strong>Fill</strong> scales image "
+#~ "to completely fill slider container (recommended for landscape images)</"
+#~ "p>\n"
+#~ "<p class=\"cmb_metabox_description\"><strong>Fit</strong> scales image to "
+#~ "fit the container (recommended for portrait images)</p>\n"
+#~ "<p class=\"cmb_metabox_description\"><strong>Fit if Smaller</strong> "
+#~ "scales image to fit only if size of slider container is less than size of "
+#~ "image.</p>\n"
+#~ "<p class=\"cmb_metabox_description\"><a target=\"_blank\" href=\"http://"
+#~ "bit.ly/slider-image-scaling\">Visual explanation</a></p>"
+#~ msgstr ""
+#~ "<p class=\"cmb_metabox_description\"><strong>Rellene</strong> escalas "
+#~ "imagen para llenar completamente el slider container (se recomienda para "
+#~ "imágenes de paisajes) </p>\n"
+#~ "<p class=\"cmb_metabox_description\"><strong>Ajustar</strong> escalas "
+#~ "imagen para ajustar el container (recomendado para las imágenes de "
+#~ "retrato)</p>\n"
+#~ "<p class=\"cmb_metabox_description\"><strong>Fit if Smaller</strong> "
+#~ "escala la imagen para encajar sólo si el tamaño del contenedor deslizador "
+#~ "es menor que el tamaño de la imagen.</p>\n"
+#~ " <p class=\"cmb_metabox_description\"><strong>Auto Altura</strong> escala "
+#~ "el slider container para ajustar la imagen a tamaño completo.</p>\n"
+#~ "<p class=\"cmb_metabox_description\"><a target=\"_blank\" href=\"http://"
+#~ "bit.ly/slider-image-scaling\"> explicación Visual</a></p>"
+
+#~ msgid "Show Nearby Images"
+#~ msgstr "Mostrar Imágenes cercanas"
+
+#~ msgid ""
+#~ "Enable this if you want to avoid having empty space on the sides of the "
+#~ "image when using mostly portrait images."
+#~ msgstr ""
+#~ "Permite esta opción si deseas evitar tener espacio vacío en los lados de "
+#~ "la imagen al usar su mayoría imágenes de retrato."
+
+#, fuzzy
+#~ msgid "Slider transition"
+#~ msgstr "Slider Transition Animation"
+
+#~ msgid "Slide/Move"
+#~ msgstr "Slide/Move"
+
+#~ msgid "Fade"
+#~ msgstr "Fade"
+
+#, fuzzy
+#~ msgid "Slider autoplay"
+#~ msgstr "Deslizador de reproducción automática"
+
+#~ msgid "View cart"
+#~ msgstr "Ver todo"
+
+#, fuzzy
+#~ msgid "Filter"
+#~ msgstr "Filter Links"
+
+#~ msgid "View all in %s"
+#~ msgstr "Ver todos en %s"
+
+#~ msgid "View all"
+#~ msgstr "Ver todo"
+
+#~ msgid "View All"
+#~ msgstr "Ver Todo"
+
+#, fuzzy
+#~ msgid "The latest comments"
+#~ msgstr "Sin comentarios"
+
+#, fuzzy
+#~ msgid "Latest Comments"
+#~ msgstr "Comentario "
+
+#, fuzzy
+#~ msgid "Recent Comments"
+#~ msgstr "Comentario "
+
+#, fuzzy
+#~ msgid "Title:"
+#~ msgstr "Título"
+
+#~ msgid "Pages"
+#~ msgstr "Páginas"
+
+#, fuzzy
+#~ msgid "Currently there are no images assigned to this slideshow"
+#~ msgstr "De momento no hay imágenes asignadas a esta galería"
+
+#~ msgid "Categories"
+#~ msgstr "Categorías"
+
+#, fuzzy
+#~ msgid "%s Category"
+#~ msgid_plural "%s Categories"
+#~ msgstr[0] "Categorías"
+#~ msgstr[1] "Categorías"
+
+#, fuzzy
+#~ msgid "Navigation placement"
+#~ msgstr "Fuente de menú"
+
+#, fuzzy
+#~ msgid "Navigation separators"
+#~ msgstr "Fuente de menú"
+
+#, fuzzy
+#~ msgid "Borders"
+#~ msgstr "Border Area"
+
+#, fuzzy
+#~ msgid "Add"
+#~ msgstr "Añadir nuevo"
+
+#, fuzzy
+#~ msgid "Add Font"
+#~ msgstr "Fuente de Body"
+
+#, fuzzy
+#~ msgid "Custom Fonts"
+#~ msgstr "Custom Code"
+
+#, fuzzy
+#~ msgid "Gallery Settings"
+#~ msgstr "Galería Detalles"
+
+#, fuzzy
+#~ msgid "Author Link"
+#~ msgstr "Filter Links"
+
+#, fuzzy
+#~ msgid "Navigation background color"
+#~ msgstr "Fuente de menú"
+
+#~ msgid "Headings Font"
+#~ msgstr "Headings Font"
+
+#, fuzzy
+#~ msgid ""
+#~ "Header options allow you to control both the visual and functional "
+#~ "aspects of the page header area."
+#~ msgstr ""
+#~ "Opciones de área de frontera le permiten controlar tanto los aspectos "
+#~ "visuales y funcionales de la zona fronteriza."
+
+#, fuzzy
+#~ msgid ""
+#~ "Adds the social links you have configured in Theme Options > Social and "
+#~ "SEO."
+#~ msgstr ""
+#~ "Muestra tus AddThis botones sociales configurados en la  sección<i>Theme "
+#~ "Options > Sociales y SEO </ i>"
+
+#, fuzzy
+#~ msgid "RSS Feed URL"
+#~ msgstr "RSS Feed"
+
+#, fuzzy
+#~ msgid "Search Form"
+#~ msgstr "Buscar Proyectos"
+
+#, fuzzy
+#~ msgid "Archive Posts Layout"
+#~ msgstr "Archivos Layout"
+
+#, fuzzy
+#~ msgid ""
+#~ "Choose the layout for the <strong>front page</strong> and <strong>archive "
+#~ "pages</strong> (eg. blog, categories, search results)."
+#~ msgstr ""
+#~ "Elige el diseño de las zonas de blog (por ejemplo, la página Archivo del "
+#~ "blog, las categorías, los resultados de la búsqueda)."
+
+#, fuzzy
+#~ msgid "<strong>SMALL</strong> screen size"
+#~ msgstr "<strong>Autor:</strong> "
+
+#, fuzzy
+#~ msgid "Display the post categories."
+#~ msgstr "Error al importar la categoría %s"
+
+#, fuzzy
+#~ msgid "Comments Number"
+#~ msgstr "Comentario "
+
+#, fuzzy
+#~ msgid "(leave empty if you want to remove it)"
+#~ msgstr ""
+#~ "Cambie el valor predeterminado [...] con otra cosa (dejar en blanco si "
+#~ "desea quitarlo)."
+
+#, fuzzy
+#~ msgid "Navigation Style"
+#~ msgstr "Fuente de menú"
+
+#~ msgid "Infinite Scroll"
+#~ msgstr "Infinite Scroll"
+
+#, fuzzy
+#~ msgid ""
+#~ "Replace the regular pagination with AJAX loading new items on scroll or "
+#~ "button click (will load at once the number posts specified in Settings > "
+#~ "Reading)."
+#~ msgstr ""
+#~ "Vuelva a colocar la paginación regular con AJAX que carga nuevos items en "
+#~ "el scroll (se carga el número de galerías especificados anteriormente)."
+
+#, fuzzy
+#~ msgid "Show [Load More] Button"
+#~ msgstr "Mostrar Share Button"
+
+#, fuzzy
+#~ msgid "Do you want to show the archive breadcrumb?"
+#~ msgstr "¿Quieres mostrar los Share Buttons en sus proyectos?"
+
+#, fuzzy
+#~ msgid "Do you want to show the post breadcrumb?"
+#~ msgstr "¿Quieres mostrar los Share Buttons en sus proyectos?"
+
+#, fuzzy
+#~ msgid "Do you want to show the date and the author under the title?"
+#~ msgstr "¿Quieres mostrar el botón de acción social en sus mensajes?"
+
+#, fuzzy
+#~ msgid "See more about :author"
+#~ msgstr "Más información sobre"
+
+#, fuzzy
+#~ msgid "Untitled"
+#~ msgstr "Título"
+
+#, fuzzy
+#~ msgid "View all posts filed under %s"
+#~ msgstr "Ver todas las publicaciones en %s"
+
+#~ msgid "Oops! That page can&rsquo;t be found."
+#~ msgstr "¡Oops! No se puede encontrar esa página."
+
+#~ msgid ""
+#~ "This may be because of a mistyped URL, faulty referral or out-of-date "
+#~ "search engine listing.<br />You should try the <a href=\"%s\">homepage</"
+#~ "a> instead or maybe do a search?"
+#~ msgstr ""
+#~ "Esto puede ser debido a una URL mal escrita, derivación defectuosa o "
+#~ "lista de motores de búsqueda fuera de fecha. <br /> Usted debe probar el "
+#~ "<a href=\"%s\">homepage</a> o tal vez hacer una búsqueda"
+
+#~ msgid "Post a new comment"
+#~ msgstr "Publicar un nuevo comentario"
+
+#~ msgid "Send"
+#~ msgstr "Enviar"
+
+#~ msgid "Message"
+#~ msgstr "Mensaje"
+
+#~ msgid "Gallery"
+#~ msgstr "Galería"
+
+#~ msgid "Add New Gallery"
+#~ msgstr "Añadir Nueva Galeria"
+
+#~ msgid "All Galleries"
+#~ msgstr "Todas las galerías"
+
+#~ msgid "View Gallery"
+#~ msgstr "Ver Galería"
+
+#~ msgid "Search Galleries"
+#~ msgstr "Buscar Fotos"
+
+#~ msgid "No Gallery found"
+#~ msgstr "No se encontró Galeria"
+
+#~ msgid "No Gallery found in Trash"
+#~ msgstr "No hay galerías en la Papelera"
+
+#~ msgid "Galleries"
+#~ msgstr "Galerías"
+
+#~ msgid "Portfolio Category"
+#~ msgstr "Categoría de Portafolio"
+
+#~ msgid "Search Portfolio Categories"
+#~ msgstr "Buscar  Categorías de Portafolio"
+
+#~ msgid "All Portfolio Categories"
+#~ msgstr "Todas las Categorías de Portafolio"
+
+#~ msgid "Parent Portfolio Category"
+#~ msgstr "Categoría superior de portafolio"
+
+#~ msgid "Parent Portfolio Category: "
+#~ msgstr "Categoría superior de portafolio: "
+
+#~ msgid "Edit Portfolio Category"
+#~ msgstr "Editar categoría de portafolio"
+
+#~ msgid "Update Portfolio Category"
+#~ msgstr "Actualización de Categoría de portafolio"
+
+#~ msgid "Add New Portfolio Category"
+#~ msgstr "Añadir Categoría de Portafolio Nueva"
+
+#~ msgid "New Portfolio Category Name"
+#~ msgstr "Nuevo nombre de Categoría de Portafolio"
+
+#~ msgid "Gallery Categories"
+#~ msgstr "Categorías de la galería"
+
+#~ msgid "Gallery Category"
+#~ msgstr "Categoría de la galeria"
+
+#~ msgid "Search Gallery Category"
+#~ msgstr "Buscar categoría de la galería"
+
+#~ msgid "All Gallery Categories"
+#~ msgstr "Todas las Categorías de la galeria"
+
+#~ msgid "Parent Gallery Category"
+#~ msgstr "Categoría de la galería padre"
+
+#~ msgid "Parent Gallery Category: "
+#~ msgstr "Categoría de la galería padre: "
+
+#~ msgid "Edit Gallery Category"
+#~ msgstr "Modificar categorías de la galería"
+
+#~ msgid "Update Gallery Category"
+#~ msgstr "Update Foto Categoría"
+
+#~ msgid "Add New Gallery Category"
+#~ msgstr "Crear una nueva categoría de la galería"
+
+#~ msgid "New Gallery Category Name"
+#~ msgstr "Nuevo nombre para categoría de la galería"
+
+#~ msgid "Project Gallery"
+#~ msgstr "Galería de proyectos"
+
+#~ msgid "Project Details"
+#~ msgstr "Detalles del Proyecto"
+
+#~ msgid "Client Name"
+#~ msgstr "Nombre del cliente"
+
+#~ msgid "Exclude From Archives"
+#~ msgstr "Excluir de Archivos"
+
+#~ msgid ""
+#~ "Exclude this project from the portfolio archives (main, categories, etc)."
+#~ msgstr ""
+#~ "Excluir este proyecto a partir de los archivos de la cartera (el "
+#~ "principal, categorías, etc.)"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "Yes"
+#~ msgstr "Si"
+
+#~ msgid "Grid Thumbnails"
+#~ msgstr "Grid Thumbnails"
+
+#~ msgid "Masonry"
+#~ msgstr "Masonry"
+
+#~ msgid ""
+#~ "<p class=\"cmb_metabox_description\"><strong>Fill</strong> scales image "
+#~ "to completely fill slider container (recommended for landscape images)</"
+#~ "p>\n"
+#~ "<p class=\"cmb_metabox_description\"><strong>Fit</strong> scales image to "
+#~ "fit the container (recommended for portrait images)</p>\n"
+#~ "<p class=\"cmb_metabox_description\"><a target=\"_blank\" href=\"http://"
+#~ "bit.ly/slider-image-scaling\">Visual explanation</a></p>"
+#~ msgstr ""
+#~ "<p class=\"cmb_metabox_description\"><strong>Rellene</strong> escalas "
+#~ "imagen para llenar completamente el slider container (se recomienda para "
+#~ "imágenes de paisajes)</p>\n"
+#~ "<p class=\"cmb_metabox_description\"><strong>Ajustar</strong> escalas "
+#~ "imagen para ajustar el container (recomendado para las imágenes de "
+#~ "retrato)</p>\n"
+#~ "<p class=\"cmb_metabox_description\"><a target=\"_blank\" href=\"http://"
+#~ "bit.ly/slider-image-scaling\"> explicación Visual</a></p>"
+
+#~ msgid ""
+#~ "Enable this if you want to avoid having empty spaces on the sides of the "
+#~ "image when using mostly portrait images."
+#~ msgstr ""
+#~ "Habilite esta opción si desea evitar que haya espacios vacíos en los "
+#~ "lados de la imagen al usar su mayoría imágenes de retrato."
+
+#~ msgid "Full Screen Button"
+#~ msgstr "Botón de pantalla completa"
+
+#~ msgid "Show"
+#~ msgstr "Mostrar"
+
+#~ msgid "Hide"
+#~ msgstr "Esconder"
+
+#~ msgid "Social Share Buttons"
+#~ msgstr "Compartir Social Buttons"
+
+#~ msgid ""
+#~ "Exclude this gallery from the galleries archives (main, categories, etc)."
+#~ msgstr ""
+#~ "Excluir esta galería de los archivos de las galerías (principal, "
+#~ "categorías, etc.)"
+
+#~ msgid "Gallery Cover"
+#~ msgstr "Cubierta Galería"
+
+#~ msgid "Use first gallery image as cover"
+#~ msgstr "Utiliza la primer imagen de la galería como cobertura"
+
+#~ msgid ""
+#~ "Choose one of the 3 cover styles (fonts defined in Theme Options > "
+#~ "Gallery)."
+#~ msgstr ""
+#~ "Elija uno de los 3 estilos de la cubierta (fuentes definidas en Opciones "
+#~ "de tema > Galería)."
+
+#~ msgid "Style 1"
+#~ msgstr "Estilo 1"
+
+#~ msgid "Style 2"
+#~ msgstr "Estilo 2"
+
+#~ msgid "Style 3"
+#~ msgstr "Estilo 3"
+
+#~ msgid "First Subtitle"
+#~ msgstr "El primer Subtítulo"
+
+#~ msgid "Second Subtitle"
+#~ msgstr "El segundo Subtítulo"
+
+#~ msgid "Choose Your Home Page"
+#~ msgstr "Elija su Página de Inicio"
+
+#~ msgid "Choose:"
+#~ msgstr "Elegir:"
+
+#~ msgid ""
+#~ "Select what would you like to be your home page. If you want to have a "
+#~ "static page as your homepage simply go the WordPress classic way and set "
+#~ "it up in Settings > Reading (instead of this one)."
+#~ msgstr ""
+#~ "Seleccione qué te gustaría ser tu página de inicio. Si usted desea tener "
+#~ "una página estática como página de inicio simplemente ir por el camino "
+#~ "clásico de WordPress y configura esto en Ajustes> Lectura (en lugar de "
+#~ "éste)."
+
+#~ msgid "Portfolio Archive"
+#~ msgstr "Portafolio Archivo"
+
+#~ msgid "Galleries Archive"
+#~ msgstr "Galerías Archivo"
+
+#~ msgid "Galleries Category"
+#~ msgstr "Galerías Categoría"
+
+#~ msgid "Select a project and we will show it on your homepage."
+#~ msgstr "Seleccione un proyecto y vamos a mostrarlo en su página principal."
+
+#~ msgid "Select a galleries category"
+#~ msgstr "Seleccione una categoría galerías"
+
+#~ msgid "Select a galleries category and we will show it on your homepage."
+#~ msgstr ""
+#~ "Seleccione una categoría galerías y vamos a mostrarlo en su página "
+#~ "principal."
+
+#~ msgid "Select a gallery"
+#~ msgstr "Seleccione una galería"
+
+#~ msgid "Select a gallery and we will show it on your homepage."
+#~ msgstr "Seleccione una galería y vamos a mostrarla en su página web."
+
+#~ msgid ""
+#~ "<p>Here you can link a video.</p><small>Only YouTube or Vimeo!</small>"
+#~ msgstr ""
+#~ "<p> Aquí se puede vincular un video. </p> <small> Sólo YouTube o Vimeo! "
+#~ "</ small>"
+
+#~ msgid "External URL"
+#~ msgstr "URL externa"
+
+#~ msgid "<p>Add a external link</p>"
+#~ msgstr "<p>Añadir un link externo</p>"
+
+#~ msgid "j F, Y \\a\\t H:i"
+#~ msgstr "j F, Y \\a\\t H:i"
+
+#~ msgid "Category Custom Accent Color"
+#~ msgstr "Categoría Custom Accent Color"
+
+#~ msgid ""
+#~ "Set here a custom accent color for this category. We will change the main "
+#~ "accent color with this one in the category archives and posts in that "
+#~ "category. <b>Note:</b> You must apply the custom CSS <b>Inline</b> for "
+#~ "this to work (Theme Options > Custom Code)."
+#~ msgstr ""
+#~ "Ajuste aquí un acento de color personalizado para esta categoría. Vamos a "
+#~ "cambiar el acento del color principal con éste en la categoría de "
+#~ "archivos y mensajes de esa categoría. <b> Nota: </ b> Usted debe aplicar "
+#~ "el CSS personalizado <b> Inline </ b> para que esto funcione  (Theme "
+#~ "Options > Custom Code)."
+
+#~ msgid "Ajax Loading"
+#~ msgstr "Ajax Loading"
+
+#~ msgid "Enable / Disable dynamic page content loading using AJAX."
+#~ msgstr ""
+#~ "Activar / Desactivar contenido dinámico carga de la página usando AJAX."
+
+#~ msgid "Back To Top Link"
+#~ msgstr "Volver al Top Link"
+
+#~ msgid ""
+#~ "Add a link that helps users jump to the top of the page (instead of "
+#~ "pressing the \"Home\" key)."
+#~ msgstr ""
+#~ "Añadir un link que ayuda a los usuarios saltar a la parte superior de la "
+#~ "página (en lugar de pulsar la tecla \"Home\")."
+
+#~ msgid "Blog"
+#~ msgstr "Blog"
+
+#~ msgid "Single Post Layout"
+#~ msgstr "Diseño de Publicación Simple"
+
+#~ msgid "Choose the layout for single posts."
+#~ msgstr "Elige el diseño de los puestos individuales."
+
+#~ msgid "Blog Archive Layout"
+#~ msgstr "Blog de Archivo"
+
+#~ msgid ""
+#~ "Galleries options allow you to style and control various features your "
+#~ "galleries use."
+#~ msgstr ""
+#~ "Opciones Galerías le permiten estiloizar y controlar diversas "
+#~ "características que sus galerías utilizan."
+
+#~ msgid "Cover Fonts"
+#~ msgstr "Cover Fonts"
+
+#~ msgid "Select Cover Type:"
+#~ msgstr "Seleccione el Cover Type:"
+
+#~ msgid ""
+#~ "Choose a cover style to change its fonts. Each cover type has it's own "
+#~ "different font settings."
+#~ msgstr ""
+#~ "Elija un Cover Style para cambiar sus fuentes. Cada tipo de cobertura "
+#~ "tiene sus propios settings para los fuentes."
+
+#~ msgid "Cover Style 1"
+#~ msgstr "Cover Style 1"
+
+#~ msgid "Title Font"
+#~ msgstr "Title Font"
+
+#~ msgid "Cover Style 2"
+#~ msgstr "Cover Style 2"
+
+#~ msgid "Cover Style 3"
+#~ msgstr "Cover Style 3"
+
+#~ msgid ""
+#~ "Choose the layout for galleries archive (eg. galleries archive page, "
+#~ "categories)."
+#~ msgstr ""
+#~ "Elige el layout de archivo galerías (por ejemplo, las galerías de página "
+#~ "de archivo, categorías)."
+
+#~ msgid "Galleries Per Page"
+#~ msgstr "Galerías por página"
+
+#~ msgid "Set the number of galleries to display on each archive page."
+#~ msgstr ""
+#~ "Establecer el número de galerías para mostrar en cada página de archivo."
+
+#~ msgid "Display filter links (categories) on Galleries Archive Page"
+#~ msgstr "Mostrar filter links (categorías) en Galleries Archive Page"
+
+#~ msgid ""
+#~ "Do you want to show the share buttons in your galleries (overwrites "
+#~ "single gallery setting)?"
+#~ msgstr ""
+#~ "¿Quieres mostrar los Share Buttons en sus galerías (sobrescribe los "
+#~ "settings de la galería single)?"
+
+#~ msgid ""
+#~ "Portfolio options allow you to style and control what features your "
+#~ "projects use."
+#~ msgstr ""
+#~ "Opciones Portafolio le permiten estilizar y controlar qué características "
+#~ "utilizan en el proyecto."
+
+#~ msgid ""
+#~ "Choose the layout for portfolio archive (eg. portfolio archive page, "
+#~ "categories)."
+#~ msgstr ""
+#~ "Elige el layout del portafolio (por ejemplo, página de archivo del "
+#~ "portafolio, las categorías)."
+
+#~ msgid "Set the number of projects to display on each archive page."
+#~ msgstr ""
+#~ "Establecer el número de proyectos a presentar en cada página de archivo."
+
+#~ msgid ""
+#~ "Replace the regular pagination with AJAX loading new items on scroll (we "
+#~ "will load at once the number of projects set above)."
+#~ msgstr ""
+#~ "Vuelva a colocar la paginación regular con AJAX  que carga nuevos items "
+#~ "en el scroll (vamos a cargar el número de proyectos que figuran más "
+#~ "arriba)."
+
+#~ msgid "Display filter links (categories) on the Portfolio Archive Page"
+#~ msgstr ""
+#~ "Mostrar filter links (categorías) en Página de archivo del Portafolio"
+
+#~ msgid "Secondary Navigation"
+#~ msgstr "Navegación Secundaria"
+
+#~ msgid "Client"
+#~ msgstr "Cliente"
+
+#~ msgid "Previous Article"
+#~ msgstr "Artículo anterior"
+
+#~ msgid "Next Article"
+#~ msgstr "Siguiente artículo"
+
+#~ msgid "Tag Archives: "
+#~ msgstr "Archivos de etiquetas: "
+
+#~ msgid "Blog Category: "
+#~ msgstr "Categoría del blog: "
+
+#~ msgid "Back"
+#~ msgstr "Atrás"
+
+#~ msgid "<em>Loading more...</em>"
+#~ msgstr "<em>Cargando más...</em>"
+
+#~ msgid "<em>I think we've hit the end, Jim</em>"
+#~ msgstr "<em>Creo que hemos tocado el final, Huan</em>"
+
+#~ msgid "No related projects yet."
+#~ msgstr "No hay proyectos relacionados todavia."
+
+#~ msgid "You may also like"
+#~ msgstr "También te puede gustar"
+
+#~ msgid "No related articles yet."
+#~ msgstr "No hay artículos relacionados aún."

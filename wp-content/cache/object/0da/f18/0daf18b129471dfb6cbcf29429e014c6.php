@@ -1,0 +1,14 @@
+Rï±Y<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"214";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2014-11-14 08:45:07";s:13:"post_date_gmt";s:19:"2014-11-14 08:45:07";s:12:"post_content";s:1864:"<p class="intro">Influenced by both Chinese and Russian culture, Harbin is reputed as the music capital of the north. Different from other theater buildings that are normally located in the urban center, Harbin Grand Theater will not act as an isolated landmark for the city, but the natural continuation of the human spirit.</p>
+Praesent sodales ante quam, eu dictum velit ornare quis. Aliquam elementum interdum elit, sollicitudin egestas libero bibendum a. Pellentesque blandit vel nisi et iaculis. Donec nec tristique arcu. Proin ac congue ante. Nunc in convallis metus. Donec luctus nisl augue, quis finibus lectus auctor nec. Cras sed rutrum lacus, eu eleifend sem. Proin faucibus consectetur metus in maximus.
+<blockquote>Surrounded by rivers, the Cultural Island embraces the wide riverbank as its background appearing as a glacier stretching and connecting to each other into a cohesive whole.</blockquote>
+Donec sodales eros sed metus consectetur, ac dapibus felis gravida. Morbi vestibulum lorem non metus pulvinar tempus. Ut non ligula ut odio ultrices tincidunt. Morbi sed hendrerit nulla.
+
+Vestibulum tincidunt, dolor sit amet placerat facilisis, ipsum ex faucibus tortor, at pellentesque turpis ipsum nec arcu.
+
+[caption id="attachment_216" align="alignnone" width="1024"]<a href="http://pixelgrade.com/demos/mies/wp-content/uploads/2014/12/photo_replacer3.jpg"><img class="size-large wp-image-216" src="http://pixelgrade.com/demos/mies/wp-content/uploads/2014/12/photo_replacer4.jpg" alt="Courtesy of MAD Architects" width="1024" height="536" /></a> Courtesy of MAD Architects[/caption]
+
+&nbsp;
+
+Quisque non arcu vehicula, cursus augue in, ultrices arcu. In tortor neque, euismod a purus ut, feugiat suscipit mi. Donec vitae aliquet arcu.
+
+Courtesy of <a class="st_tag internal_tag" href="www.i-mad.com" target="_blank" rel="tag">MAD Architects</a>";s:10:"post_title";s:22:"Harbin Cultural Center";s:12:"post_excerpt";s:185:"Influenced by both Chinese and Russian culture, Harbin is reputed as the music capital of the north. Different from other theater buildings that are normally located in the urban center";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:22:"harbin-cultural-center";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2014-11-14 08:45:07";s:17:"post_modified_gmt";s:19:"2014-11-14 08:45:07";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:39:"http://pixelgrade.com/demos/mies/?p=214";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";}}

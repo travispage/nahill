@@ -1,0 +1,1 @@
+˜6±Y<?php exit; ?>a:1:{s:7:"content";s:327:"a:6:{s:4:"path";s:52:"/home3/nahill/public_html/wp-content/uploads/2017/09";s:3:"url";s:54:"http://nahilldesigns.com.au/wp-content/uploads/2017/09";s:6:"subdir";s:8:"/2017/09";s:7:"basedir";s:44:"/home3/nahill/public_html/wp-content/uploads";s:7:"baseurl";s:46:"http://nahilldesigns.com.au/wp-content/uploads";s:5:"error";b:0;}";}
